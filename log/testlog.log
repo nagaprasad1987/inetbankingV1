@@ -1,0 +1,997 @@
+2020-06-10 15:11:42,876 - ebanking -INFO - Enter username
+2020-06-10 15:11:42,957 - ebanking -INFO - Enter password
+2020-06-10 15:11:47,993 - ebanking -INFO - clicked on login button
+2020-06-10 15:13:29,019 - ebanking -INFO - Enter username
+2020-06-10 15:13:29,102 - ebanking -INFO - Enter password
+2020-06-10 15:13:30,429 - ebanking -INFO - clicked on login button
+2020-06-10 15:13:30,454 - ebanking -INFO - Login Test passed
+2020-06-10 15:29:20,567 - ebanking -INFO - Enter username
+2020-06-10 15:29:20,665 - ebanking -INFO - Enter password
+2020-06-10 15:29:20,735 - ebanking -INFO - clicked on login button
+2020-06-10 15:29:22,466 - ebanking -INFO - Login Test passed
+2020-06-10 15:39:43,795 - ebanking -INFO - Enter username
+2020-06-10 15:39:43,879 - ebanking -INFO - Enter password
+2020-06-10 15:39:45,287 - ebanking -INFO - clicked on login button
+2020-06-10 15:39:45,354 - ebanking -INFO - Login Test passed
+2020-06-10 17:20:33,342 - ebanking -INFO - Enter username
+2020-06-10 17:20:33,479 - ebanking -INFO - Enter password
+2020-06-10 17:20:35,277 - ebanking -INFO - clicked on login button
+2020-06-11 09:01:50,976 - ebanking -INFO - Username provided
+2020-06-11 09:01:51,274 - ebanking -INFO - password provided
+2020-06-11 09:04:07,505 - ebanking -INFO - Username provided
+2020-06-11 09:04:07,596 - ebanking -INFO - password provided
+2020-06-11 09:04:08,032 - ebanking -INFO - login button clicked
+2020-06-11 09:04:09,718 - ebanking -INFO - Username provided
+2020-06-11 09:04:09,836 - ebanking -INFO - password provided
+2020-06-11 09:04:10,310 - ebanking -INFO - login button clicked
+2020-06-11 09:04:12,009 - ebanking -INFO - Username provided
+2020-06-11 09:04:12,148 - ebanking -INFO - password provided
+2020-06-11 09:04:12,908 - ebanking -INFO - login button clicked
+2020-06-11 09:04:15,357 - ebanking -INFO - Username provided
+2020-06-11 09:04:15,471 - ebanking -INFO - password provided
+2020-06-11 09:04:15,928 - ebanking -INFO - login button clicked
+2020-06-11 09:04:17,640 - ebanking -INFO - Username provided
+2020-06-11 09:04:17,783 - ebanking -INFO - password provided
+2020-06-11 09:04:18,218 - ebanking -INFO - login button clicked
+2020-06-11 09:06:21,669 - ebanking -INFO - Username provided
+2020-06-11 09:06:21,776 - ebanking -INFO - password provided
+2020-06-11 09:06:22,360 - ebanking -INFO - login button clicked
+2020-06-11 09:06:23,007 - ebanking -INFO - Login passed
+2020-06-11 09:13:16,980 - ebanking -INFO - Username provided
+2020-06-11 09:13:17,117 - ebanking -INFO - password provided
+2020-06-11 09:13:18,017 - ebanking -INFO - login button clicked
+2020-06-11 09:13:21,063 - ebanking -INFO - Login passed
+2020-06-11 09:13:27,211 - ebanking -INFO - Username provided
+2020-06-11 09:13:27,318 - ebanking -INFO - password provided
+2020-06-11 09:13:28,074 - ebanking -INFO - login button clicked
+2020-06-11 09:13:33,169 - ebanking -INFO - Username provided
+2020-06-11 09:13:33,299 - ebanking -INFO - password provided
+2020-06-11 09:13:33,802 - ebanking -INFO - login button clicked
+2020-06-11 09:13:39,005 - ebanking -INFO - Username provided
+2020-06-11 09:13:39,148 - ebanking -INFO - password provided
+2020-06-11 09:13:40,561 - ebanking -INFO - login button clicked
+2020-06-11 09:13:43,575 - ebanking -INFO - Login passed
+2020-06-11 09:13:49,817 - ebanking -INFO - Username provided
+2020-06-11 09:13:49,944 - ebanking -INFO - password provided
+2020-06-11 09:13:50,435 - ebanking -INFO - login button clicked
+2020-06-11 09:16:44,654 - ebanking -INFO - Enter username
+2020-06-11 09:16:44,766 - ebanking -INFO - Enter password
+2020-06-11 09:16:46,388 - ebanking -INFO - clicked on login button
+2020-06-11 09:16:46,399 - ebanking -INFO - Login Test passed
+2020-06-11 09:16:53,245 - ebanking -INFO - Username provided
+2020-06-11 09:16:53,339 - ebanking -INFO - password provided
+2020-06-11 09:16:54,985 - ebanking -INFO - login button clicked
+2020-06-11 09:16:58,070 - ebanking -INFO - Login passed
+2020-06-11 09:17:04,504 - ebanking -INFO - Username provided
+2020-06-11 09:17:04,658 - ebanking -INFO - password provided
+2020-06-11 09:17:05,145 - ebanking -INFO - login button clicked
+2020-06-11 09:17:10,480 - ebanking -INFO - Username provided
+2020-06-11 09:17:10,660 - ebanking -INFO - password provided
+2020-06-11 09:17:11,137 - ebanking -INFO - login button clicked
+2020-06-11 09:17:16,080 - ebanking -INFO - Username provided
+2020-06-11 09:17:16,214 - ebanking -INFO - password provided
+2020-06-11 09:17:17,650 - ebanking -INFO - login button clicked
+2020-06-11 09:17:20,658 - ebanking -INFO - Login passed
+2020-06-11 09:17:26,594 - ebanking -INFO - Username provided
+2020-06-11 09:17:26,718 - ebanking -INFO - password provided
+2020-06-11 09:17:27,455 - ebanking -INFO - login button clicked
+2020-06-13 07:54:53,963 - ebanking -INFO - Entered username
+2020-06-13 07:54:54,069 - ebanking -INFO - Entered password
+2020-06-13 07:54:56,295 - ebanking -INFO - clicked on login button
+2020-06-13 07:55:00,460 - ebanking -INFO - element click intercepted: Element <a href="addcustomerpage.php">...</a> is not clickable at point (120, 392). Other element would receive the click: <iframe id="primis_playerSekindoSPlayer5ee4390219f12" title="Primis Player Videos" scrolling="no" allowfullscreen="" style="border: none; position: fixed; bottom: 10px; width: 315px; height: 177px; box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px 3px; border-radius: 1px; z-index: 2147483646; left: 10px;"></iframe>
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d24885835703c32d00616dacc7b059c5
+2020-06-13 07:55:00,462 - ebanking -INFO - Test failed
+2020-06-13 07:57:50,822 - ebanking -INFO - Entered username
+2020-06-13 07:57:50,954 - ebanking -INFO - Entered password
+2020-06-13 07:57:52,471 - ebanking -INFO - clicked on login button
+2020-06-13 07:57:56,721 - ebanking -INFO - element click intercepted: Element <a href="addcustomerpage.php">...</a> is not clickable at point (120, 392). Other element would receive the click: <iframe id="primis_playerSekindoSPlayer5ee439b23a1b2" title="Primis Player Videos" scrolling="no" allowfullscreen="" style="border: none; position: fixed; bottom: 10px; width: 315px; height: 177px; box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px 3px; border-radius: 1px; z-index: 2147483646; left: 10px;"></iframe>
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f2509001687959a4fe934ca9df613a61
+2020-06-13 07:57:56,724 - ebanking -INFO - Test failed
+2020-06-13 07:59:29,429 - ebanking -INFO - Entered username
+2020-06-13 07:59:29,543 - ebanking -INFO - Entered password
+2020-06-13 07:59:31,217 - ebanking -INFO - clicked on login button
+2020-06-13 07:59:35,427 - ebanking -INFO - element click intercepted: Element <a href="addcustomerpage.php">...</a> is not clickable at point (120, 392). Other element would receive the click: <iframe id="primis_playerSekindoSPlayer5ee43a1505e94" title="Primis Player Videos" scrolling="no" allowfullscreen="" style="border: none; position: fixed; bottom: 10px; width: 315px; height: 177px; box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px 3px; border-radius: 1px; z-index: 2147483646; left: 10px;"></iframe>
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9235a3a691fb5d0c60f6c4881f1f0cd0
+2020-06-13 07:59:35,428 - ebanking -INFO - Test failed
+2020-06-13 08:00:51,080 - ebanking -INFO - Entered username
+2020-06-13 08:00:51,191 - ebanking -INFO - Entered password
+2020-06-13 08:00:52,481 - ebanking -INFO - clicked on login button
+2020-06-13 08:00:56,698 - ebanking -INFO - element click intercepted: Element <a href="addcustomerpage.php">...</a> is not clickable at point (120, 392). Other element would receive the click: <iframe id="primis_playerSekindoSPlayer5ee43a664dd32" title="Primis Player Videos" scrolling="no" allowfullscreen="" style="border: none; position: fixed; bottom: 10px; width: 315px; height: 177px; box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px 3px; border-radius: 1px; z-index: 2147483646; left: 10px;"></iframe>
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58917}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0f38e4ddf148ed961c143c1660fa377e
+2020-06-13 08:00:56,701 - ebanking -INFO - Test failed
+2020-06-13 08:07:10,421 - ebanking -INFO - Entered username
+2020-06-13 08:07:10,535 - ebanking -INFO - Entered password
+2020-06-13 08:07:11,866 - ebanking -INFO - clicked on login button
+2020-06-13 08:07:15,869 - ebanking -INFO - clicked on new customer
+2020-06-13 08:07:19,033 - ebanking -INFO - Entered customer name
+2020-06-13 08:07:29,127 - ebanking -INFO - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='radio' and value='m']"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60106}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bb0a2b99cc5cfa2bfb0f68c074df5522
+*** Element info: {Using=xpath, value=//input[@type='radio' and value='m']}
+2020-06-13 08:07:29,129 - ebanking -INFO - Test failed
+2020-06-13 08:11:31,182 - ebanking -INFO - Entered username
+2020-06-13 08:11:31,298 - ebanking -INFO - Entered password
+2020-06-13 08:11:32,803 - ebanking -INFO - clicked on login button
+2020-06-13 08:11:36,484 - ebanking -INFO - clicked on new customer
+2020-06-13 08:11:39,776 - ebanking -INFO - Entered customer name
+2020-06-13 08:11:49,866 - ebanking -INFO - no such element: Unable to locate element: {"method":"xpath","selector":"//input[contains(text(),'male')]"}
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 31f890554df6cf4f40f7a00f051153a4
+*** Element info: {Using=xpath, value=//input[contains(text(),'male')]}
+2020-06-13 08:11:49,867 - ebanking -INFO - Test failed
+2020-06-13 08:18:15,412 - ebanking -INFO - Entered username
+2020-06-13 08:18:15,508 - ebanking -INFO - Entered password
+2020-06-13 08:18:17,438 - ebanking -INFO - clicked on login button
+2020-06-13 08:18:21,241 - ebanking -INFO - clicked on new customer
+2020-06-13 08:18:24,564 - ebanking -INFO - Entered customer name
+2020-06-13 08:18:24,631 - ebanking -INFO - invalid selector: Unable to locate an element with the xpath expression //input[@name='rad1' and @value='m')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@name='rad1' and @value='m')]' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60418}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7ded2e57580f1e0343d41025bd0571a7
+*** Element info: {Using=xpath, value=//input[@name='rad1' and @value='m')]}
+2020-06-13 08:18:24,632 - ebanking -INFO - Test failed
+2020-06-13 08:19:27,698 - ebanking -INFO - Entered username
+2020-06-13 08:19:27,805 - ebanking -INFO - Entered password
+2020-06-13 08:19:29,781 - ebanking -INFO - clicked on login button
+2020-06-13 08:19:33,572 - ebanking -INFO - clicked on new customer
+2020-06-13 08:19:36,810 - ebanking -INFO - Entered customer name
+2020-06-13 08:19:36,908 - ebanking -INFO - gender selected
+2020-06-13 08:19:37,180 - ebanking -INFO - Entered DOB
+2020-06-13 08:19:40,407 - ebanking -INFO - Entered address
+2020-06-13 08:19:40,505 - ebanking -INFO - Entered City
+2020-06-13 08:19:40,601 - ebanking -INFO - Entered State
+2020-06-13 08:19:40,688 - ebanking -INFO - PIN No entered
+2020-06-13 08:19:40,944 - ebanking -INFO - Entered Phone number
+2020-06-13 08:19:41,171 - ebanking -INFO - Entered Email Id
+2020-06-13 08:19:41,336 - ebanking -INFO - Entered password
+2020-06-13 08:19:41,468 - ebanking -INFO - clicked on submit button
+2020-06-13 08:19:44,533 - ebanking -INFO - unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=83.0.4103.97): please fill all fields
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63770}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 137b280fd0a6ed5dfe6aa01e9507c9ae
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:19:44,539 - ebanking -INFO - Test failed
+2020-06-13 08:28:03,923 - ebanking -INFO - Entered username
+2020-06-13 08:28:04,043 - ebanking -INFO - Entered password
+2020-06-13 08:28:06,006 - ebanking -INFO - clicked on login button
+2020-06-13 08:28:09,848 - ebanking -INFO - clicked on new customer
+2020-06-13 08:28:13,055 - ebanking -INFO - Entered customer name
+2020-06-13 08:28:13,141 - ebanking -INFO - gender selected
+2020-06-13 08:28:13,444 - ebanking -INFO - Entered DOB
+2020-06-13 08:28:16,594 - ebanking -INFO - Entered address
+2020-06-13 08:28:16,715 - ebanking -INFO - Entered City
+2020-06-13 08:28:16,847 - ebanking -INFO - Entered State
+2020-06-13 08:28:16,940 - ebanking -INFO - PIN No entered
+2020-06-13 08:28:17,081 - ebanking -INFO - Entered Phone number
+2020-06-13 08:28:17,296 - ebanking -INFO - Entered Email Id
+2020-06-13 08:28:17,434 - ebanking -INFO - Entered password
+2020-06-13 08:28:17,547 - ebanking -INFO - clicked on submit button
+2020-06-13 08:28:20,658 - ebanking -INFO - unexpected alert open: {Alert text : please fill all fields}
+  (Session info: chrome=83.0.4103.97): please fill all fields
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 33dce6f9ac3399cd0a76a92cca919e29
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:28:20,660 - ebanking -INFO - Test failed
+2020-06-13 08:30:17,273 - ebanking -INFO - Entered username
+2020-06-13 08:30:17,362 - ebanking -INFO - Entered password
+2020-06-13 08:30:19,011 - ebanking -INFO - clicked on login button
+2020-06-13 08:30:22,755 - ebanking -INFO - clicked on new customer
+2020-06-13 08:30:25,900 - ebanking -INFO - Entered customer name
+2020-06-13 08:30:26,008 - ebanking -INFO - gender selected
+2020-06-13 08:30:26,225 - ebanking -INFO - Entered DOB
+2020-06-13 08:30:29,379 - ebanking -INFO - Entered address
+2020-06-13 08:30:29,522 - ebanking -INFO - Entered City
+2020-06-13 08:30:29,631 - ebanking -INFO - Entered State
+2020-06-13 08:30:29,719 - ebanking -INFO - PIN No entered
+2020-06-13 08:30:29,852 - ebanking -INFO - Entered Phone number
+2020-06-13 08:30:30,016 - ebanking -INFO - Entered Email Id
+2020-06-13 08:30:30,097 - ebanking -INFO - Entered password
+2020-06-13 08:30:32,106 - ebanking -INFO - clicked on submit button
+2020-06-13 08:30:35,229 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:30:35,231 - ebanking -INFO - Test Passed
+2020-06-13 08:31:34,549 - ebanking -INFO - Entered username
+2020-06-13 08:31:34,663 - ebanking -INFO - Entered password
+2020-06-13 08:31:36,634 - ebanking -INFO - clicked on login button
+2020-06-13 08:31:40,430 - ebanking -INFO - clicked on new customer
+2020-06-13 08:31:43,746 - ebanking -INFO - Entered customer name
+2020-06-13 08:31:43,899 - ebanking -INFO - gender selected
+2020-06-13 08:31:44,134 - ebanking -INFO - Entered DOB
+2020-06-13 08:31:47,252 - ebanking -INFO - Entered address
+2020-06-13 08:31:47,344 - ebanking -INFO - Entered City
+2020-06-13 08:31:47,430 - ebanking -INFO - Entered State
+2020-06-13 08:31:47,523 - ebanking -INFO - PIN No entered
+2020-06-13 08:31:47,649 - ebanking -INFO - Entered Phone number
+2020-06-13 08:31:47,903 - ebanking -INFO - Entered Email Id
+2020-06-13 08:31:48,022 - ebanking -INFO - Entered password
+2020-06-13 08:31:49,880 - ebanking -INFO - clicked on submit button
+2020-06-13 08:31:52,980 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:31:52,981 - ebanking -INFO - Test Passed
+2020-06-13 08:32:38,085 - ebanking -INFO - Entered username
+2020-06-13 08:32:38,182 - ebanking -INFO - Entered password
+2020-06-13 08:32:39,736 - ebanking -INFO - clicked on login button
+2020-06-13 08:32:43,743 - ebanking -INFO - clicked on new customer
+2020-06-13 08:32:47,110 - ebanking -INFO - Entered customer name
+2020-06-13 08:32:47,179 - ebanking -INFO - gender selected
+2020-06-13 08:32:47,556 - ebanking -INFO - Entered DOB
+2020-06-13 08:32:50,741 - ebanking -INFO - Entered address
+2020-06-13 08:32:50,912 - ebanking -INFO - Entered City
+2020-06-13 08:32:51,141 - ebanking -INFO - Entered State
+2020-06-13 08:32:51,236 - ebanking -INFO - PIN No entered
+2020-06-13 08:32:51,458 - ebanking -INFO - Entered Phone number
+2020-06-13 08:32:51,677 - ebanking -INFO - Entered Email Id
+2020-06-13 08:32:51,817 - ebanking -INFO - Entered password
+2020-06-13 08:32:53,787 - ebanking -INFO - clicked on submit button
+2020-06-13 08:32:56,835 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:32:56,837 - ebanking -INFO - Test Passed
+2020-06-13 08:35:44,201 - ebanking -INFO - Entered username
+2020-06-13 08:35:44,295 - ebanking -INFO - Entered password
+2020-06-13 08:35:45,773 - ebanking -INFO - clicked on login button
+2020-06-13 08:35:49,645 - ebanking -INFO - clicked on new customer
+2020-06-13 08:35:52,807 - ebanking -INFO - Entered customer name
+2020-06-13 08:35:52,939 - ebanking -INFO - gender selected
+2020-06-13 08:35:53,342 - ebanking -INFO - Entered DOB
+2020-06-13 08:35:56,495 - ebanking -INFO - Entered address
+2020-06-13 08:35:56,591 - ebanking -INFO - Entered City
+2020-06-13 08:35:56,710 - ebanking -INFO - Entered State
+2020-06-13 08:35:56,817 - ebanking -INFO - PIN No entered
+2020-06-13 08:35:56,915 - ebanking -INFO - Entered Phone number
+2020-06-13 08:35:57,097 - ebanking -INFO - Entered Email Id
+2020-06-13 08:35:57,168 - ebanking -INFO - Entered password
+2020-06-13 08:35:57,780 - ebanking -INFO - clicked on submit button
+2020-06-13 08:36:00,799 - ebanking -INFO - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.97): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61297}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6a97e2b25d7568259897083f05a49a4d
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:36:00,801 - ebanking -INFO - Test failed
+2020-06-13 08:36:35,838 - ebanking -INFO - Entered username
+2020-06-13 08:36:35,935 - ebanking -INFO - Entered password
+2020-06-13 08:36:37,576 - ebanking -INFO - clicked on login button
+2020-06-13 08:36:41,510 - ebanking -INFO - clicked on new customer
+2020-06-13 08:36:44,686 - ebanking -INFO - Entered customer name
+2020-06-13 08:36:44,796 - ebanking -INFO - gender selected
+2020-06-13 08:36:45,021 - ebanking -INFO - Entered DOB
+2020-06-13 08:36:48,208 - ebanking -INFO - Entered address
+2020-06-13 08:36:48,319 - ebanking -INFO - Entered City
+2020-06-13 08:36:48,447 - ebanking -INFO - Entered State
+2020-06-13 08:36:48,541 - ebanking -INFO - PIN No entered
+2020-06-13 08:36:48,805 - ebanking -INFO - Entered Phone number
+2020-06-13 08:36:49,067 - ebanking -INFO - Entered Email Id
+2020-06-13 08:36:49,224 - ebanking -INFO - Entered password
+2020-06-13 08:36:51,362 - ebanking -INFO - clicked on submit button
+2020-06-13 08:36:54,532 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:36:54,534 - ebanking -INFO - Test Passed
+2020-06-13 08:37:10,872 - ebanking -INFO - Entered username
+2020-06-13 08:37:10,957 - ebanking -INFO - Entered password
+2020-06-13 08:37:12,874 - ebanking -INFO - clicked on login button
+2020-06-13 08:37:16,659 - ebanking -INFO - clicked on new customer
+2020-06-13 08:37:19,907 - ebanking -INFO - Entered customer name
+2020-06-13 08:37:20,028 - ebanking -INFO - gender selected
+2020-06-13 08:37:20,307 - ebanking -INFO - Entered DOB
+2020-06-13 08:37:23,445 - ebanking -INFO - Entered address
+2020-06-13 08:37:23,548 - ebanking -INFO - Entered City
+2020-06-13 08:37:23,631 - ebanking -INFO - Entered State
+2020-06-13 08:37:23,742 - ebanking -INFO - PIN No entered
+2020-06-13 08:37:23,879 - ebanking -INFO - Entered Phone number
+2020-06-13 08:37:24,008 - ebanking -INFO - Entered Email Id
+2020-06-13 08:37:24,083 - ebanking -INFO - Entered password
+2020-06-13 08:37:25,656 - ebanking -INFO - clicked on submit button
+2020-06-13 08:37:28,968 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:37:28,970 - ebanking -INFO - Test Passed
+2020-06-13 08:37:43,422 - ebanking -INFO - Entered username
+2020-06-13 08:37:43,514 - ebanking -INFO - Entered password
+2020-06-13 08:37:45,371 - ebanking -INFO - clicked on login button
+2020-06-13 08:37:49,153 - ebanking -INFO - clicked on new customer
+2020-06-13 08:37:52,320 - ebanking -INFO - Entered customer name
+2020-06-13 08:37:52,436 - ebanking -INFO - gender selected
+2020-06-13 08:37:52,634 - ebanking -INFO - Entered DOB
+2020-06-13 08:37:55,820 - ebanking -INFO - Entered address
+2020-06-13 08:37:55,926 - ebanking -INFO - Entered City
+2020-06-13 08:37:56,011 - ebanking -INFO - Entered State
+2020-06-13 08:37:56,104 - ebanking -INFO - PIN No entered
+2020-06-13 08:37:56,202 - ebanking -INFO - Entered Phone number
+2020-06-13 08:37:56,392 - ebanking -INFO - Entered Email Id
+2020-06-13 08:37:56,519 - ebanking -INFO - Entered password
+2020-06-13 08:37:57,343 - ebanking -INFO - clicked on submit button
+2020-06-13 08:38:00,405 - ebanking -INFO - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.97): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63983}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: eb5e744aff2aef408214ccb47cfdad13
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:38:00,407 - ebanking -INFO - Test failed
+2020-06-13 08:38:39,329 - ebanking -INFO - Entered username
+2020-06-13 08:38:39,417 - ebanking -INFO - Entered password
+2020-06-13 08:38:40,462 - ebanking -INFO - clicked on login button
+2020-06-13 08:38:44,756 - ebanking -INFO - clicked on new customer
+2020-06-13 08:38:47,926 - ebanking -INFO - Entered customer name
+2020-06-13 08:38:47,997 - ebanking -INFO - gender selected
+2020-06-13 08:38:48,206 - ebanking -INFO - Entered DOB
+2020-06-13 08:38:51,382 - ebanking -INFO - Entered address
+2020-06-13 08:38:51,468 - ebanking -INFO - Entered City
+2020-06-13 08:38:51,608 - ebanking -INFO - Entered State
+2020-06-13 08:38:51,724 - ebanking -INFO - PIN No entered
+2020-06-13 08:38:51,841 - ebanking -INFO - Entered Phone number
+2020-06-13 08:38:52,012 - ebanking -INFO - Entered Email Id
+2020-06-13 08:38:52,084 - ebanking -INFO - Entered password
+2020-06-13 08:38:53,509 - ebanking -INFO - clicked on submit button
+2020-06-13 08:38:56,645 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:38:56,647 - ebanking -INFO - Test Passed
+2020-06-13 08:39:10,422 - ebanking -INFO - Entered username
+2020-06-13 08:39:10,512 - ebanking -INFO - Entered password
+2020-06-13 08:39:12,361 - ebanking -INFO - clicked on login button
+2020-06-13 08:39:16,634 - ebanking -INFO - clicked on new customer
+2020-06-13 08:39:19,749 - ebanking -INFO - Entered customer name
+2020-06-13 08:39:19,844 - ebanking -INFO - gender selected
+2020-06-13 08:39:20,001 - ebanking -INFO - Entered DOB
+2020-06-13 08:39:23,125 - ebanking -INFO - Entered address
+2020-06-13 08:39:23,259 - ebanking -INFO - Entered City
+2020-06-13 08:39:23,386 - ebanking -INFO - Entered State
+2020-06-13 08:39:23,535 - ebanking -INFO - PIN No entered
+2020-06-13 08:39:23,635 - ebanking -INFO - Entered Phone number
+2020-06-13 08:39:23,800 - ebanking -INFO - Entered Email Id
+2020-06-13 08:39:23,906 - ebanking -INFO - Entered password
+2020-06-13 08:39:24,494 - ebanking -INFO - clicked on submit button
+2020-06-13 08:39:27,558 - ebanking -INFO - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.97): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64401}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c8fa0c022bc9dab2ac3e585c6c1c4c1f
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:39:27,561 - ebanking -INFO - Test failed
+2020-06-13 08:42:03,543 - ebanking -INFO - Entered username
+2020-06-13 08:42:03,636 - ebanking -INFO - Entered password
+2020-06-13 08:42:04,769 - ebanking -INFO - clicked on login button
+2020-06-13 08:42:08,729 - ebanking -INFO - clicked on new customer
+2020-06-13 08:42:11,909 - ebanking -INFO - Entered customer name
+2020-06-13 08:42:11,984 - ebanking -INFO - gender selected
+2020-06-13 08:42:12,212 - ebanking -INFO - Entered DOB
+2020-06-13 08:42:15,395 - ebanking -INFO - Entered address
+2020-06-13 08:42:15,481 - ebanking -INFO - Entered City
+2020-06-13 08:42:15,563 - ebanking -INFO - Entered State
+2020-06-13 08:42:15,655 - ebanking -INFO - PIN No entered
+2020-06-13 08:42:15,751 - ebanking -INFO - Entered Phone number
+2020-06-13 08:42:15,960 - ebanking -INFO - Entered Email Id
+2020-06-13 08:42:16,063 - ebanking -INFO - Entered password
+2020-06-13 08:42:17,549 - ebanking -INFO - clicked on submit button
+2020-06-13 08:42:27,664 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:42:27,665 - ebanking -INFO - Test Passed
+2020-06-13 08:42:43,407 - ebanking -INFO - Entered username
+2020-06-13 08:42:43,523 - ebanking -INFO - Entered password
+2020-06-13 08:42:44,672 - ebanking -INFO - clicked on login button
+2020-06-13 08:42:48,674 - ebanking -INFO - clicked on new customer
+2020-06-13 08:42:51,822 - ebanking -INFO - Entered customer name
+2020-06-13 08:42:52,035 - ebanking -INFO - gender selected
+2020-06-13 08:42:52,355 - ebanking -INFO - Entered DOB
+2020-06-13 08:42:55,508 - ebanking -INFO - Entered address
+2020-06-13 08:42:55,605 - ebanking -INFO - Entered City
+2020-06-13 08:42:55,726 - ebanking -INFO - Entered State
+2020-06-13 08:42:55,834 - ebanking -INFO - PIN No entered
+2020-06-13 08:42:55,987 - ebanking -INFO - Entered Phone number
+2020-06-13 08:42:56,132 - ebanking -INFO - Entered Email Id
+2020-06-13 08:42:56,234 - ebanking -INFO - Entered password
+2020-06-13 08:42:58,007 - ebanking -INFO - clicked on submit button
+2020-06-13 08:43:08,119 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:43:08,120 - ebanking -INFO - Test Passed
+2020-06-13 08:43:29,648 - ebanking -INFO - Entered username
+2020-06-13 08:43:29,740 - ebanking -INFO - Entered password
+2020-06-13 08:43:31,209 - ebanking -INFO - clicked on login button
+2020-06-13 08:43:35,166 - ebanking -INFO - clicked on new customer
+2020-06-13 08:43:38,362 - ebanking -INFO - Entered customer name
+2020-06-13 08:43:38,590 - ebanking -INFO - gender selected
+2020-06-13 08:43:38,811 - ebanking -INFO - Entered DOB
+2020-06-13 08:43:41,988 - ebanking -INFO - Entered address
+2020-06-13 08:43:42,080 - ebanking -INFO - Entered City
+2020-06-13 08:43:42,200 - ebanking -INFO - Entered State
+2020-06-13 08:43:42,288 - ebanking -INFO - PIN No entered
+2020-06-13 08:43:42,406 - ebanking -INFO - Entered Phone number
+2020-06-13 08:43:42,552 - ebanking -INFO - Entered Email Id
+2020-06-13 08:43:42,666 - ebanking -INFO - Entered password
+2020-06-13 08:43:54,540 - ebanking -INFO - clicked on submit button
+2020-06-13 08:43:54,662 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:43:54,664 - ebanking -INFO - Test Passed
+2020-06-13 08:44:11,708 - ebanking -INFO - Entered username
+2020-06-13 08:44:11,807 - ebanking -INFO - Entered password
+2020-06-13 08:44:13,332 - ebanking -INFO - clicked on login button
+2020-06-13 08:44:17,308 - ebanking -INFO - clicked on new customer
+2020-06-13 08:44:20,490 - ebanking -INFO - Entered customer name
+2020-06-13 08:44:20,692 - ebanking -INFO - gender selected
+2020-06-13 08:44:20,951 - ebanking -INFO - Entered DOB
+2020-06-13 08:44:24,095 - ebanking -INFO - Entered address
+2020-06-13 08:44:24,185 - ebanking -INFO - Entered City
+2020-06-13 08:44:24,313 - ebanking -INFO - Entered State
+2020-06-13 08:44:24,398 - ebanking -INFO - PIN No entered
+2020-06-13 08:44:24,497 - ebanking -INFO - Entered Phone number
+2020-06-13 08:44:24,651 - ebanking -INFO - Entered Email Id
+2020-06-13 08:44:24,733 - ebanking -INFO - Entered password
+2020-06-13 08:44:36,791 - ebanking -INFO - clicked on submit button
+2020-06-13 08:44:36,889 - ebanking -INFO - New customer registered successfully
+2020-06-13 08:44:36,891 - ebanking -INFO - Test Passed
+2020-06-13 08:44:53,143 - ebanking -INFO - Entered username
+2020-06-13 08:44:53,240 - ebanking -INFO - Entered password
+2020-06-13 08:44:55,172 - ebanking -INFO - clicked on login button
+2020-06-13 08:44:58,980 - ebanking -INFO - clicked on new customer
+2020-06-13 08:45:02,111 - ebanking -INFO - Entered customer name
+2020-06-13 08:45:02,196 - ebanking -INFO - gender selected
+2020-06-13 08:45:02,697 - ebanking -INFO - Entered DOB
+2020-06-13 08:45:05,840 - ebanking -INFO - Entered address
+2020-06-13 08:45:05,951 - ebanking -INFO - Entered City
+2020-06-13 08:45:06,068 - ebanking -INFO - Entered State
+2020-06-13 08:45:06,154 - ebanking -INFO - PIN No entered
+2020-06-13 08:45:06,247 - ebanking -INFO - Entered Phone number
+2020-06-13 08:45:06,377 - ebanking -INFO - Entered Email Id
+2020-06-13 08:45:06,506 - ebanking -INFO - Entered password
+2020-06-13 08:45:17,412 - ebanking -INFO - clicked on submit button
+2020-06-13 08:45:17,472 - ebanking -INFO - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.97): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56282}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4a0225b2050c12146a776879e1752e97
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-13 08:45:17,474 - ebanking -INFO - Test failed
+2020-06-13 16:10:01,616 - ebanking -INFO - Entered username
+2020-06-13 16:10:01,705 - ebanking -INFO - Entered password
+2020-06-13 16:10:03,313 - ebanking -INFO - clicked on login button
+2020-06-13 16:10:06,379 - ebanking -INFO - invalid selector: Unable to locate an element with the xpath expression //a[containts(text(),'Edit Customer')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[containts(text(),'Edit Customer')]' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61175}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3313ce60f80746e1b6181d302c617cd5
+*** Element info: {Using=xpath, value=//a[containts(text(),'Edit Customer')]}
+2020-06-13 16:10:06,379 - ebanking -INFO - Test failed
+2020-06-13 16:19:42,171 - ebanking -INFO - Entered username
+2020-06-13 16:19:42,262 - ebanking -INFO - Entered password
+2020-06-13 16:19:43,675 - ebanking -INFO - clicked on login button
+2020-06-13 16:19:46,790 - ebanking -INFO - invalid selector: Unable to locate an element with the xpath expression //a[containts(text(),'Edit Customer')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[containts(text(),'Edit Customer')]' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61717}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5b0355aed5065e93f34622e4bf4f9eb4
+*** Element info: {Using=xpath, value=//a[containts(text(),'Edit Customer')]}
+2020-06-13 16:19:46,791 - ebanking -INFO - Test failed
+2020-06-13 16:20:46,310 - ebanking -INFO - Entered username
+2020-06-13 16:20:46,400 - ebanking -INFO - Entered password
+2020-06-13 16:20:48,744 - ebanking -INFO - clicked on login button
+2020-06-13 16:20:54,828 - ebanking -INFO - invalid selector: Unable to locate an element with the xpath expression //a[containts(text(),'Edit Customer')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[containts(text(),'Edit Customer')]' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51696}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e2a80b97ccb7ca60e6d18a6939eb8c12
+*** Element info: {Using=xpath, value=//a[containts(text(),'Edit Customer')]}
+2020-06-13 16:20:54,829 - ebanking -INFO - Test failed
+2020-06-13 16:23:05,643 - ebanking -INFO - Entered username
+2020-06-13 16:23:05,745 - ebanking -INFO - Entered password
+2020-06-13 16:23:07,121 - ebanking -INFO - clicked on login button
+2020-06-13 16:23:13,473 - ebanking -INFO - invalid selector: Unable to locate an element with the xpath expression //a[containts(@href,'EditCustomer.php')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//a[containts(@href,'EditCustomer.php')]' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50500}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 20404dd0a3edf1fcb4da9f874f699099
+*** Element info: {Using=xpath, value=//a[containts(@href,'EditCustomer.php')]}
+2020-06-13 16:23:13,473 - ebanking -INFO - Test failed
+2020-06-13 16:27:47,101 - ebanking -INFO - Entered username
+2020-06-13 16:27:47,202 - ebanking -INFO - Entered password
+2020-06-13 16:27:48,604 - ebanking -INFO - clicked on login button
+2020-06-13 16:27:55,855 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:27:55,931 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:27:57,266 - ebanking -INFO - clicked on submit button
+2020-06-13 16:27:57,297 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:27:57,320 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:27:57,342 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:27:57,364 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:27:57,477 - ebanking -INFO - entered new address
+2020-06-13 16:27:57,614 - ebanking -INFO - entered new city
+2020-06-13 16:27:57,753 - ebanking -INFO - Entered new State
+2020-06-13 16:27:57,891 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:27:58,007 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:27:58,152 - ebanking -INFO - Entered new emailID
+2020-06-13 16:27:59,480 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-13 16:27:59,499 - ebanking -INFO - stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50853}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f435252ebc93a37e9669939b74006b18
+2020-06-13 16:27:59,499 - ebanking -INFO - Test failed
+2020-06-13 16:29:11,526 - ebanking -INFO - Entered username
+2020-06-13 16:29:11,616 - ebanking -INFO - Entered password
+2020-06-13 16:29:12,736 - ebanking -INFO - clicked on login button
+2020-06-13 16:29:51,888 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:29:51,972 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:29:53,538 - ebanking -INFO - clicked on submit button
+2020-06-13 16:29:53,569 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:29:53,591 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:29:53,613 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:29:53,634 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:29:53,746 - ebanking -INFO - entered new address
+2020-06-13 16:29:53,875 - ebanking -INFO - entered new city
+2020-06-13 16:29:54,012 - ebanking -INFO - Entered new State
+2020-06-13 16:29:54,163 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:29:54,277 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:29:54,404 - ebanking -INFO - Entered new emailID
+2020-06-13 16:29:55,766 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-13 16:29:58,804 - ebanking -INFO - stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fc0d3f7fe91569755343ab45e87ef3e3
+2020-06-13 16:29:58,804 - ebanking -INFO - Test failed
+2020-06-13 16:32:22,622 - ebanking -INFO - Entered username
+2020-06-13 16:32:22,708 - ebanking -INFO - Entered password
+2020-06-13 16:32:24,092 - ebanking -INFO - clicked on login button
+2020-06-13 16:32:31,228 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:32:31,307 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:32:32,346 - ebanking -INFO - clicked on submit button
+2020-06-13 16:32:32,375 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:32:32,397 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:32:32,418 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:32:32,437 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:32:32,547 - ebanking -INFO - entered new address
+2020-06-13 16:32:32,679 - ebanking -INFO - entered new city
+2020-06-13 16:32:32,845 - ebanking -INFO - Entered new State
+2020-06-13 16:32:32,950 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:32:33,058 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:32:33,209 - ebanking -INFO - Entered new emailID
+2020-06-13 16:37:33,309 - ebanking -INFO - timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=83.0.4103.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cb3350988418e063d3991a53d569f7e2
+2020-06-13 16:37:33,310 - ebanking -INFO - Test failed
+2020-06-13 16:38:05,106 - ebanking -INFO - Entered username
+2020-06-13 16:38:05,196 - ebanking -INFO - Entered password
+2020-06-13 16:38:06,529 - ebanking -INFO - clicked on login button
+2020-06-13 16:38:13,725 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:38:13,803 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:38:15,072 - ebanking -INFO - clicked on submit button
+2020-06-13 16:38:15,102 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:38:15,127 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:38:15,149 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:38:15,171 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:38:15,285 - ebanking -INFO - entered new address
+2020-06-13 16:38:15,419 - ebanking -INFO - entered new city
+2020-06-13 16:38:15,550 - ebanking -INFO - Entered new State
+2020-06-13 16:38:15,691 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:38:15,807 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:38:15,940 - ebanking -INFO - Entered new emailID
+2020-06-13 16:38:17,309 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-13 16:38:20,351 - ebanking -INFO - stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53554}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0193bc3d4ca71473c61fbd769201fbad
+2020-06-13 16:38:20,352 - ebanking -INFO - Test failed
+2020-06-13 16:46:55,614 - ebanking -INFO - Entered username
+2020-06-13 16:46:55,701 - ebanking -INFO - Entered password
+2020-06-13 16:46:57,944 - ebanking -INFO - clicked on login button
+2020-06-13 16:47:05,058 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:47:05,136 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:47:06,164 - ebanking -INFO - clicked on submit button
+2020-06-13 16:47:06,194 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:47:06,218 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:47:06,239 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:47:06,260 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:47:06,371 - ebanking -INFO - entered new address
+2020-06-13 16:47:06,503 - ebanking -INFO - entered new city
+2020-06-13 16:47:06,633 - ebanking -INFO - Entered new State
+2020-06-13 16:47:06,773 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:47:06,886 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:47:07,021 - ebanking -INFO - Entered new emailID
+2020-06-13 16:47:08,389 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-13 16:47:11,438 - ebanking -INFO - Test passed
+2020-06-13 16:50:49,554 - ebanking -INFO - Entered username
+2020-06-13 16:50:49,641 - ebanking -INFO - Entered password
+2020-06-13 16:50:50,791 - ebanking -INFO - clicked on login button
+2020-06-13 16:50:58,437 - ebanking -INFO - clicked on Edit Customer
+2020-06-13 16:50:58,512 - ebanking -INFO - Entered Customer ID
+2020-06-13 16:50:59,810 - ebanking -INFO - clicked on submit button
+2020-06-13 16:50:59,840 - ebanking -INFO - Landed on edit customer page
+2020-06-13 16:50:59,863 - ebanking -INFO - Customer name is disabled
+2020-06-13 16:50:59,885 - ebanking -INFO - Customer gender is disabled
+2020-06-13 16:50:59,905 - ebanking -INFO - Customer DOB is disabled
+2020-06-13 16:51:00,022 - ebanking -INFO - entered new address
+2020-06-13 16:51:00,153 - ebanking -INFO - entered new city
+2020-06-13 16:51:00,286 - ebanking -INFO - Entered new State
+2020-06-13 16:51:00,423 - ebanking -INFO - Entered new Pin Number
+2020-06-13 16:51:00,549 - ebanking -INFO - Entered new Phone number
+2020-06-13 16:51:00,697 - ebanking -INFO - Entered new emailID
+2020-06-13 16:51:02,098 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-13 16:51:05,145 - ebanking -INFO - Test passed
+2020-06-19 08:03:20,552 - ebanking -INFO - Entered username
+2020-06-19 08:03:20,666 - ebanking -INFO - Entered password
+2020-06-19 08:03:22,247 - ebanking -INFO - clicked on login button
+2020-06-19 08:03:29,503 - ebanking -INFO - clicked on Edit Customer
+2020-06-19 08:03:29,602 - ebanking -INFO - Entered Customer ID
+2020-06-19 08:03:30,711 - ebanking -INFO - clicked on submit button
+2020-06-19 08:03:30,759 - ebanking -INFO - Landed on edit customer page
+2020-06-19 08:03:30,805 - ebanking -INFO - Customer name is disabled
+2020-06-19 08:03:30,845 - ebanking -INFO - Customer gender is disabled
+2020-06-19 08:03:30,893 - ebanking -INFO - Customer DOB is disabled
+2020-06-19 08:03:31,076 - ebanking -INFO - entered new address
+2020-06-19 08:03:31,224 - ebanking -INFO - entered new city
+2020-06-19 08:03:31,364 - ebanking -INFO - Entered new State
+2020-06-19 08:03:31,607 - ebanking -INFO - Entered new Pin Number
+2020-06-19 08:03:31,802 - ebanking -INFO - Entered new Phone number
+2020-06-19 08:03:32,057 - ebanking -INFO - Entered new emailID
+2020-06-19 08:03:33,705 - ebanking -INFO - clicked on submit button present on edit customer page
+2020-06-19 08:03:36,785 - ebanking -INFO - Test passed
+2020-06-19 09:15:46,636 - ebanking -INFO - Entered username
+2020-06-19 09:15:46,732 - ebanking -INFO - Entered password
+2020-06-19 09:15:48,064 - ebanking -INFO - clicked on login button
+2020-06-19 09:15:55,700 - ebanking -INFO - clicked on delete customer
+2020-06-19 09:15:55,821 - ebanking -INFO - Entered customer id
+2020-06-19 09:15:55,977 - ebanking -INFO - clicked on submit button
+2020-06-19 09:20:12,908 - ebanking -INFO - Entered username
+2020-06-19 09:20:13,003 - ebanking -INFO - Entered password
+2020-06-19 09:20:14,922 - ebanking -INFO - clicked on login button
+2020-06-19 09:20:22,172 - ebanking -INFO - clicked on delete customer
+2020-06-19 09:20:22,247 - ebanking -INFO - Entered customer id
+2020-06-19 09:20:22,313 - ebanking -INFO - clicked on submit button
+2020-06-19 19:43:41,119 - ebanking -INFO - Entered username
+2020-06-19 19:43:41,221 - ebanking -INFO - Entered password
+2020-06-19 19:43:41,289 - ebanking -INFO - clicked on login button
+2020-06-19 19:43:50,120 - ebanking -INFO - clicked on delete customer
+2020-06-19 19:43:50,274 - ebanking -INFO - Entered customer id
+2020-06-19 19:43:50,371 - ebanking -INFO - clicked on submit button
+2020-06-19 19:50:51,224 - ebanking -INFO - Entered username
+2020-06-19 19:50:51,315 - ebanking -INFO - Entered password
+2020-06-19 19:50:51,403 - ebanking -INFO - clicked on login button
+2020-06-19 19:50:58,933 - ebanking -INFO - clicked on delete customer
+2020-06-19 19:50:59,116 - ebanking -INFO - Entered customer id
+2020-06-19 19:50:59,247 - ebanking -INFO - clicked on submit button
+2020-06-19 19:51:02,271 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-19 19:51:02,274 - ebanking -INFO - captured first alert message
+2020-06-19 19:52:38,674 - ebanking -INFO - Entered username
+2020-06-19 19:52:38,800 - ebanking -INFO - Entered password
+2020-06-19 19:52:38,881 - ebanking -INFO - clicked on login button
+2020-06-19 19:53:38,176 - ebanking -INFO - Entered username
+2020-06-19 19:53:38,265 - ebanking -INFO - Entered password
+2020-06-19 19:53:40,344 - ebanking -INFO - clicked on login button
+2020-06-19 19:53:47,666 - ebanking -INFO - clicked on delete customer
+2020-06-19 19:53:47,855 - ebanking -INFO - Entered customer id
+2020-06-19 19:53:48,033 - ebanking -INFO - clicked on submit button
+2020-06-19 19:53:51,061 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-19 19:53:51,062 - ebanking -INFO - captured first alert message
+2020-06-19 19:54:11,227 - ebanking -INFO - Customer does not exist!!
+2020-06-19 19:59:45,571 - ebanking -INFO - Entered username
+2020-06-19 19:59:45,666 - ebanking -INFO - Entered password
+2020-06-19 19:59:45,745 - ebanking -INFO - clicked on login button
+2020-06-19 19:59:53,743 - ebanking -INFO - clicked on delete customer
+2020-06-19 19:59:54,049 - ebanking -INFO - Entered customer id
+2020-06-19 19:59:54,182 - ebanking -INFO - clicked on submit button
+2020-06-19 20:00:03,955 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-19 20:00:09,461 - ebanking -INFO - captured first alert message
+2020-06-19 20:00:24,655 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:24:04,610 - ebanking -INFO - Entered username
+2020-06-20 07:24:04,722 - ebanking -INFO - Entered password
+2020-06-20 07:24:06,022 - ebanking -INFO - clicked on login button
+2020-06-20 07:24:13,478 - ebanking -INFO - clicked on delete customer
+2020-06-20 07:24:13,549 - ebanking -INFO - Entered customer id
+2020-06-20 07:24:13,616 - ebanking -INFO - clicked on submit button
+2020-06-20 07:24:16,629 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-20 07:24:16,630 - ebanking -INFO - captured first alert message
+2020-06-20 07:24:17,289 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:25:34,552 - ebanking -INFO - Entered username
+2020-06-20 07:25:34,640 - ebanking -INFO - Entered password
+2020-06-20 07:25:35,784 - ebanking -INFO - clicked on login button
+2020-06-20 07:25:43,271 - ebanking -INFO - clicked on delete customer
+2020-06-20 07:25:43,348 - ebanking -INFO - Entered customer id
+2020-06-20 07:25:43,409 - ebanking -INFO - clicked on submit button
+2020-06-20 07:25:50,268 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-20 07:25:53,476 - ebanking -INFO - captured first alert message
+2020-06-20 07:26:11,359 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:27:58,787 - ebanking -INFO - Entered username
+2020-06-20 07:27:58,920 - ebanking -INFO - Entered password
+2020-06-20 07:28:00,405 - ebanking -INFO - clicked on login button
+2020-06-20 07:28:07,503 - ebanking -INFO - clicked on delete customer
+2020-06-20 07:28:07,577 - ebanking -INFO - Entered customer id
+2020-06-20 07:28:07,649 - ebanking -INFO - clicked on submit button
+2020-06-20 07:28:13,064 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-20 07:28:13,449 - ebanking -INFO - captured first alert message
+2020-06-20 07:28:15,197 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:29:15,662 - ebanking -INFO - Entered username
+2020-06-20 07:29:15,775 - ebanking -INFO - Entered password
+2020-06-20 07:29:16,855 - ebanking -INFO - clicked on login button
+2020-06-20 07:29:23,971 - ebanking -INFO - clicked on delete customer
+2020-06-20 07:29:24,075 - ebanking -INFO - Entered customer id
+2020-06-20 07:29:24,151 - ebanking -INFO - clicked on submit button
+2020-06-20 07:29:29,404 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-20 07:29:29,679 - ebanking -INFO - captured first alert message
+2020-06-20 07:29:31,108 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:29:34,742 - ebanking -INFO - Test failed
+2020-06-20 07:29:39,736 - ebanking -INFO - customer does not exist
+2020-06-20 07:29:40,948 - ebanking -INFO - Test failed
+2020-06-20 07:31:49,665 - ebanking -INFO - Entered username
+2020-06-20 07:31:49,783 - ebanking -INFO - Entered password
+2020-06-20 07:31:51,124 - ebanking -INFO - clicked on login button
+2020-06-20 07:31:58,420 - ebanking -INFO - clicked on delete customer
+2020-06-20 07:31:58,490 - ebanking -INFO - Entered customer id
+2020-06-20 07:31:58,552 - ebanking -INFO - clicked on submit button
+2020-06-20 07:32:01,566 - ebanking -INFO - Do you really want to delete this Customer?
+2020-06-20 07:32:01,567 - ebanking -INFO - captured first alert message
+2020-06-20 07:32:01,939 - ebanking -INFO - Customer does not exist!!
+2020-06-20 07:32:02,588 - ebanking -INFO - Test failed
+2020-06-20 07:32:02,589 - ebanking -INFO - customer does not exist
+2020-06-20 07:32:02,589 - ebanking -INFO - Test failed
+2020-06-20 08:01:13,310 - ebanking -INFO - Entered username
+2020-06-20 08:01:13,414 - ebanking -INFO - Entered password
+2020-06-20 08:01:14,764 - ebanking -INFO - clicked on login button
+2020-06-20 08:01:18,604 - ebanking -INFO - clicked on new customer
+2020-06-20 08:01:21,723 - ebanking -INFO - Entered customer name
+2020-06-20 08:01:21,796 - ebanking -INFO - gender selected
+2020-06-20 08:01:21,933 - ebanking -INFO - Entered DOB
+2020-06-20 08:01:25,056 - ebanking -INFO - Entered address
+2020-06-20 08:01:25,130 - ebanking -INFO - Entered City
+2020-06-20 08:01:25,211 - ebanking -INFO - Entered State
+2020-06-20 08:01:25,293 - ebanking -INFO - PIN No entered
+2020-06-20 08:01:25,379 - ebanking -INFO - Entered Phone number
+2020-06-20 08:01:25,499 - ebanking -INFO - Entered Email Id
+2020-06-20 08:01:25,567 - ebanking -INFO - Entered password
+2020-06-20 08:01:37,275 - ebanking -INFO - clicked on submit button
+2020-06-20 08:01:37,338 - ebanking -INFO - New customer registered successfully
+2020-06-20 08:01:37,339 - ebanking -INFO - Test Passed
+2020-06-20 18:00:34,858 - ebanking -INFO - Enter username
+2020-06-20 18:00:35,060 - ebanking -INFO - Enter password
+2020-06-20 18:00:36,669 - ebanking -INFO - clicked on login button
+2020-06-20 18:00:36,682 - ebanking -INFO - Login Test passed
+2020-06-20 18:02:58,666 - ebanking -INFO - Enter username
+2020-06-20 18:02:58,769 - ebanking -INFO - Enter password
+2020-06-20 18:03:00,205 - ebanking -INFO - clicked on login button
+2020-06-20 18:03:00,215 - ebanking -INFO - Login Test passed
+2020-06-20 18:05:24,723 - ebanking -INFO - Enter username
+2020-06-20 18:05:24,837 - ebanking -INFO - Enter password
+2020-06-20 18:05:26,035 - ebanking -INFO - clicked on login button
+2020-06-20 18:05:26,043 - ebanking -INFO - Login Test passed
+2020-06-20 18:05:34,393 - ebanking -INFO - Username provided
+2020-06-20 18:05:34,626 - ebanking -INFO - password provided
+2020-06-20 18:05:35,222 - ebanking -INFO - login button clicked
+2020-06-20 18:05:38,298 - ebanking -INFO - Login passed
+2020-06-20 18:05:44,194 - ebanking -INFO - Username provided
+2020-06-20 18:05:44,331 - ebanking -INFO - password provided
+2020-06-20 18:05:44,779 - ebanking -INFO - login button clicked
+2020-06-20 18:05:49,225 - ebanking -INFO - Username provided
+2020-06-20 18:05:49,342 - ebanking -INFO - password provided
+2020-06-20 18:05:49,806 - ebanking -INFO - login button clicked
+2020-06-20 18:05:54,876 - ebanking -INFO - Username provided
+2020-06-20 18:05:54,974 - ebanking -INFO - password provided
+2020-06-20 18:05:56,401 - ebanking -INFO - login button clicked
+2020-06-20 18:05:59,414 - ebanking -INFO - Login passed
+2020-06-20 18:06:05,600 - ebanking -INFO - Username provided
+2020-06-20 18:06:05,712 - ebanking -INFO - password provided
+2020-06-20 18:06:06,545 - ebanking -INFO - login button clicked
+2020-06-20 18:11:05,095 - ebanking -INFO - Enter username
+2020-06-20 18:11:05,212 - ebanking -INFO - Enter password
+2020-06-20 18:11:07,189 - ebanking -INFO - clicked on login button
+2020-06-20 18:11:07,208 - ebanking -INFO - Login Test passed
+2020-06-20 18:11:14,089 - ebanking -INFO - Entered username
+2020-06-20 18:11:14,179 - ebanking -INFO - Entered password
+2020-06-20 18:11:15,663 - ebanking -INFO - clicked on login button
+2020-06-20 18:11:19,911 - ebanking -INFO - clicked on new customer
+2020-06-20 18:11:23,074 - ebanking -INFO - Entered customer name
+2020-06-20 18:11:23,198 - ebanking -INFO - gender selected
+2020-06-20 18:11:23,435 - ebanking -INFO - Entered DOB
+2020-06-20 18:11:26,599 - ebanking -INFO - Entered address
+2020-06-20 18:11:26,740 - ebanking -INFO - Entered City
+2020-06-20 18:11:26,876 - ebanking -INFO - Entered State
+2020-06-20 18:11:27,037 - ebanking -INFO - PIN No entered
+2020-06-20 18:11:27,175 - ebanking -INFO - Entered Phone number
+2020-06-20 18:11:27,357 - ebanking -INFO - Entered Email Id
+2020-06-20 18:11:27,489 - ebanking -INFO - Entered password
+2020-06-20 18:11:39,330 - ebanking -INFO - clicked on submit button
+2020-06-20 18:11:39,385 - ebanking -INFO - New customer registered successfully
+2020-06-20 18:11:39,453 - ebanking -INFO - CustomerId:52895
+2020-06-20 18:11:39,453 - ebanking -INFO - Test Passed
+2020-06-20 18:40:16,998 - ebanking -INFO - Enter username
+2020-06-20 18:40:17,125 - ebanking -INFO - Enter password
+2020-06-20 18:40:18,549 - ebanking -INFO - clicked on login button
+2020-06-20 18:40:18,566 - ebanking -INFO - Login Test passed
+2020-06-20 18:40:25,874 - ebanking -INFO - Entered username
+2020-06-20 18:40:25,989 - ebanking -INFO - Entered password
+2020-06-20 18:40:27,610 - ebanking -INFO - clicked on login button
+2020-06-20 18:40:33,466 - ebanking -INFO - clicked on new customer
+2020-06-20 18:40:36,597 - ebanking -INFO - Entered customer name
+2020-06-20 18:40:36,659 - ebanking -INFO - gender selected
+2020-06-20 18:40:36,813 - ebanking -INFO - Entered DOB
+2020-06-20 18:40:39,999 - ebanking -INFO - Entered address
+2020-06-20 18:40:40,176 - ebanking -INFO - Entered City
+2020-06-20 18:40:40,340 - ebanking -INFO - Entered State
+2020-06-20 18:40:40,492 - ebanking -INFO - PIN No entered
+2020-06-20 18:40:40,676 - ebanking -INFO - Entered Phone number
+2020-06-20 18:40:40,958 - ebanking -INFO - Entered Email Id
+2020-06-20 18:40:41,109 - ebanking -INFO - Entered password
+2020-06-20 18:40:52,871 - ebanking -INFO - clicked on submit button
+2020-06-20 18:40:52,926 - ebanking -INFO - New customer registered successfully
+2020-06-20 18:40:52,986 - ebanking -INFO - CustomerId:61180
+2020-06-20 18:40:52,986 - ebanking -INFO - Test Passed
+2020-06-20 18:41:39,142 - ebanking -INFO - Enter username
+2020-06-20 18:41:39,285 - ebanking -INFO - Enter password
+2020-06-20 18:41:40,646 - ebanking -INFO - clicked on login button
+2020-06-20 18:41:40,654 - ebanking -INFO - Login Test passed
+2020-06-20 18:41:47,753 - ebanking -INFO - Entered username
+2020-06-20 18:41:47,843 - ebanking -INFO - Entered password
+2020-06-20 18:41:49,183 - ebanking -INFO - clicked on login button
+2020-06-20 18:41:53,339 - ebanking -INFO - clicked on new customer
+2020-06-20 18:41:56,499 - ebanking -INFO - Entered customer name
+2020-06-20 18:41:56,584 - ebanking -INFO - gender selected
+2020-06-20 18:41:56,792 - ebanking -INFO - Entered DOB
+2020-06-20 18:41:59,961 - ebanking -INFO - Entered address
+2020-06-20 18:42:00,070 - ebanking -INFO - Entered City
+2020-06-20 18:42:00,168 - ebanking -INFO - Entered State
+2020-06-20 18:42:00,297 - ebanking -INFO - PIN No entered
+2020-06-20 18:42:00,436 - ebanking -INFO - Entered Phone number
+2020-06-20 18:42:00,627 - ebanking -INFO - Entered Email Id
+2020-06-20 18:42:00,730 - ebanking -INFO - Entered password
+2020-06-20 18:42:11,540 - ebanking -INFO - clicked on submit button
+2020-06-20 18:42:11,605 - ebanking -INFO - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.97): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60456}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 48ba27d0341f46c4c948e8c2f984187f
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-20 18:42:11,606 - ebanking -INFO - Test failed
+2020-06-20 18:43:20,281 - ebanking -INFO - Enter username
+2020-06-20 18:43:20,412 - ebanking -INFO - Enter password
+2020-06-20 18:43:21,918 - ebanking -INFO - clicked on login button
+2020-06-20 18:43:21,930 - ebanking -INFO - Login Test passed
+2020-06-20 18:43:28,842 - ebanking -INFO - Entered username
+2020-06-20 18:43:28,947 - ebanking -INFO - Entered password
+2020-06-20 18:43:30,990 - ebanking -INFO - clicked on login button
+2020-06-20 18:43:34,967 - ebanking -INFO - clicked on new customer
+2020-06-20 18:43:38,126 - ebanking -INFO - Entered customer name
+2020-06-20 18:43:38,231 - ebanking -INFO - gender selected
+2020-06-20 18:43:38,452 - ebanking -INFO - Entered DOB
+2020-06-20 18:43:41,629 - ebanking -INFO - Entered address
+2020-06-20 18:43:41,795 - ebanking -INFO - Entered City
+2020-06-20 18:43:41,928 - ebanking -INFO - Entered State
+2020-06-20 18:43:42,086 - ebanking -INFO - PIN No entered
+2020-06-20 18:43:42,264 - ebanking -INFO - Entered Phone number
+2020-06-20 18:43:42,432 - ebanking -INFO - Entered Email Id
+2020-06-20 18:43:42,557 - ebanking -INFO - Entered password
+2020-06-20 18:43:54,495 - ebanking -INFO - clicked on submit button
+2020-06-20 18:43:54,553 - ebanking -INFO - New customer registered successfully
+2020-06-20 18:43:54,622 - ebanking -INFO - CustomerId:82058
+2020-06-20 18:43:54,622 - ebanking -INFO - Test Passed
+2020-06-20 18:55:46,457 - ebanking -INFO - Enter username
+2020-06-20 18:55:46,564 - ebanking -INFO - Enter password
+2020-06-20 18:55:47,845 - ebanking -INFO - clicked on login button
+2020-06-20 18:55:47,855 - ebanking -INFO - Login Test passed
+2020-06-20 18:55:54,931 - ebanking -INFO - Entered username
+2020-06-20 18:55:55,033 - ebanking -INFO - Entered password
+2020-06-20 18:55:56,709 - ebanking -INFO - clicked on login button
+2020-06-20 18:56:00,878 - ebanking -INFO - clicked on new customer
+2020-06-20 18:56:04,014 - ebanking -INFO - Entered customer name
+2020-06-20 18:56:04,111 - ebanking -INFO - gender selected
+2020-06-20 18:56:04,319 - ebanking -INFO - Entered DOB
+2020-06-20 18:56:07,476 - ebanking -INFO - Entered address
+2020-06-20 18:56:07,618 - ebanking -INFO - Entered City
+2020-06-20 18:56:07,772 - ebanking -INFO - Entered State
+2020-06-20 18:56:07,905 - ebanking -INFO - PIN No entered
+2020-06-20 18:56:08,063 - ebanking -INFO - Entered Phone number
+2020-06-20 18:56:08,241 - ebanking -INFO - Entered Email Id
+2020-06-20 18:56:08,331 - ebanking -INFO - Entered password
+2020-06-20 18:56:20,046 - ebanking -INFO - clicked on submit button
+2020-06-20 18:56:20,085 - ebanking -INFO - New customer registered successfully
+2020-06-20 18:56:20,148 - ebanking -INFO - CustomerId:69705
+2020-06-20 18:56:20,148 - ebanking -INFO - Test Passed
+2020-06-20 20:21:45,156 - ebanking -INFO - Enter username
+2020-06-20 20:21:45,254 - ebanking -INFO - Enter password
+2020-06-20 20:21:46,653 - ebanking -INFO - clicked on login button
+2020-06-20 20:21:46,671 - ebanking -INFO - Login Test passed
+2020-06-20 20:21:54,574 - ebanking -INFO - Entered username
+2020-06-20 20:21:54,668 - ebanking -INFO - Entered password
+2020-06-20 20:21:56,116 - ebanking -INFO - clicked on login button
+2020-06-20 20:22:00,269 - ebanking -INFO - clicked on new customer
+2020-06-20 20:22:03,441 - ebanking -INFO - Entered customer name
+2020-06-20 20:22:03,523 - ebanking -INFO - gender selected
+2020-06-20 20:22:03,778 - ebanking -INFO - Entered DOB
+2020-06-20 20:22:07,065 - ebanking -INFO - Entered address
+2020-06-20 20:22:07,182 - ebanking -INFO - Entered City
+2020-06-20 20:22:07,285 - ebanking -INFO - Entered State
+2020-06-20 20:22:07,394 - ebanking -INFO - PIN No entered
+2020-06-20 20:22:07,574 - ebanking -INFO - Entered Phone number
+2020-06-20 20:22:07,814 - ebanking -INFO - Entered Email Id
+2020-06-20 20:22:07,943 - ebanking -INFO - Entered password
+2020-06-20 20:22:20,648 - ebanking -INFO - clicked on submit button
+2020-06-20 20:22:20,680 - ebanking -INFO - New customer registered successfully
+2020-06-20 20:22:20,748 - ebanking -INFO - CustomerId:22259
+2020-06-20 20:22:20,748 - ebanking -INFO - Test Passed
+2020-06-21 09:27:15,570 - ebanking -INFO - Enter username
+2020-06-21 09:27:15,726 - ebanking -INFO - Enter password
+2020-06-21 09:27:17,227 - ebanking -INFO - clicked on login button
+2020-06-21 09:27:17,236 - ebanking -INFO - Login Test passed
+2020-06-21 09:27:24,739 - ebanking -INFO - Entered username
+2020-06-21 09:27:24,829 - ebanking -INFO - Entered password
+2020-06-21 09:27:26,172 - ebanking -INFO - clicked on login button
+2020-06-21 09:27:30,499 - ebanking -INFO - clicked on new customer
+2020-06-21 09:27:33,756 - ebanking -INFO - Entered customer name
+2020-06-21 09:27:33,828 - ebanking -INFO - gender selected
+2020-06-21 09:27:33,973 - ebanking -INFO - Entered DOB
+2020-06-21 09:27:37,065 - ebanking -INFO - Entered address
+2020-06-21 09:27:37,157 - ebanking -INFO - Entered City
+2020-06-21 09:27:37,241 - ebanking -INFO - Entered State
+2020-06-21 09:27:37,334 - ebanking -INFO - PIN No entered
+2020-06-21 09:27:37,436 - ebanking -INFO - Entered Phone number
+2020-06-21 09:27:37,561 - ebanking -INFO - Entered Email Id
+2020-06-21 09:27:37,626 - ebanking -INFO - Entered password
+2020-06-21 09:27:49,463 - ebanking -INFO - clicked on submit button
+2020-06-21 09:27:49,488 - ebanking -INFO - New customer registered successfully
+2020-06-21 09:27:49,524 - ebanking -INFO - CustomerId:83731
+2020-06-21 09:27:49,524 - ebanking -INFO - Test Passed

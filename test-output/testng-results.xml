@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="inetbanking" duration-ms="6233" started-at="2020-06-20T03:35:39Z" finished-at="2020-06-20T03:35:45Z">
+    <groups>
+    </groups>
+    <test name="chrome Test" duration-ms="6233" started-at="2020-06-20T03:35:39Z" finished-at="2020-06-20T03:35:45Z">
+      <class name="com.inetbanking.testCases.TC_DeleteCustomer_005">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer_005@3d299e3]" name="setUp" is-config="true" duration-ms="6088" started-at="2020-06-20T03:35:39Z" finished-at="2020-06-20T03:35:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer_005@3d299e3]" name="deleteCustomer" duration-ms="24" started-at="2020-06-20T03:35:45Z" finished-at="2020-06-20T03:35:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+      </class> <!-- com.inetbanking.testCases.TC_DeleteCustomer_005 -->
+    </test> <!-- chrome Test -->
+  </suite> <!-- inetbanking -->
+</testng-results>
