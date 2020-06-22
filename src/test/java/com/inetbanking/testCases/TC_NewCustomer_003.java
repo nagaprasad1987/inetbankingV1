@@ -97,14 +97,14 @@ public class TC_NewCustomer_003 extends BaseClass {
 
 	public String generatePhonenumber()
 	{
-		return RandomStringUtils.randomNumeric(10);
+		Random r = new Random();
+		int s = 1 + r.nextInt(8);
+		return s + RandomStringUtils.randomNumeric(9);
 	}
 
 	public String genereateEmailId()
 	{
 		return RandomStringUtils.randomAlphanumeric(5)+"@gmail.com";
 	}
-
-
-
+	
 }

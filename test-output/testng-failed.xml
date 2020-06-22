@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [inetbanking]">
-  <listeners>
-    <listener class-name="com.inetbanking.utilities.Reporting"/>
-  </listeners>
-  <test thread-count="5" name="chrome Test(failed)">
-    <parameter name="browser" value="chrome"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.inetbanking.testCases.TC_DeleteCustomer_005">
+      <class name="com.inetbanking.testCases.TC_NewCustomer_003">
         <methods>
+          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="deleteCustomer"/>
+          <include name="addCustomer"/>
         </methods>
-      </class> <!-- com.inetbanking.testCases.TC_DeleteCustomer_005 -->
+      </class> <!-- com.inetbanking.testCases.TC_NewCustomer_003 -->
     </classes>
-  </test> <!-- chrome Test(failed) -->
-</suite> <!-- Failed suite [inetbanking] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

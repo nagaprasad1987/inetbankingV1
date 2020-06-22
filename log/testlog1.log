@@ -995,3 +995,240 @@ Session ID: 48ba27d0341f46c4c948e8c2f984187f
 2020-06-21 09:27:49,488 [main] INFO ebanking - New customer registered successfully
 2020-06-21 09:27:49,524 [main] INFO ebanking - CustomerId:83731
 2020-06-21 09:27:49,524 [main] INFO ebanking - Test Passed
+2020-06-22 22:36:02,294 [main] INFO ebanking - Entered username
+2020-06-22 22:36:02,405 [main] INFO ebanking - Entered password
+2020-06-22 22:36:03,770 [main] INFO ebanking - clicked on login button
+2020-06-22 22:36:07,793 [main] INFO ebanking - clicked on new customer
+2020-06-22 22:36:10,962 [main] INFO ebanking - Entered customer name
+2020-06-22 22:36:11,052 [main] INFO ebanking - gender selected
+2020-06-22 22:36:11,380 [main] INFO ebanking - Entered DOB
+2020-06-22 22:36:14,515 [main] INFO ebanking - Entered address
+2020-06-22 22:36:14,611 [main] INFO ebanking - Entered City
+2020-06-22 22:36:14,744 [main] INFO ebanking - Entered State
+2020-06-22 22:36:14,830 [main] INFO ebanking - PIN No entered
+2020-06-22 22:36:14,926 [main] INFO ebanking - Entered Phone number
+2020-06-22 22:36:15,091 [main] INFO ebanking - Entered Email Id
+2020-06-22 22:36:15,259 [main] INFO ebanking - Entered password
+2020-06-22 22:36:27,491 [main] INFO ebanking - clicked on submit button
+2020-06-22 22:36:27,533 [main] INFO ebanking - New customer registered successfully
+2020-06-22 22:36:27,603 [main] INFO ebanking - CustomerId:97534
+2020-06-22 22:36:27,603 [main] INFO ebanking - Test Passed
+2020-06-22 22:43:48,208 [main] INFO ebanking - Entered username
+2020-06-22 22:43:48,324 [main] INFO ebanking - Entered password
+2020-06-22 22:43:50,196 [main] INFO ebanking - clicked on login button
+2020-06-22 22:43:55,899 [main] INFO ebanking - clicked on new customer
+2020-06-22 22:43:59,011 [main] INFO ebanking - Entered customer name
+2020-06-22 22:43:59,080 [main] INFO ebanking - gender selected
+2020-06-22 22:43:59,257 [main] INFO ebanking - Entered DOB
+2020-06-22 22:44:02,431 [main] INFO ebanking - Entered address
+2020-06-22 22:44:02,522 [main] INFO ebanking - Entered City
+2020-06-22 22:44:02,649 [main] INFO ebanking - Entered State
+2020-06-22 22:44:02,740 [main] INFO ebanking - PIN No entered
+2020-06-22 22:44:02,852 [main] INFO ebanking - Entered Phone number
+2020-06-22 22:44:03,008 [main] INFO ebanking - Entered Email Id
+2020-06-22 22:44:03,117 [main] INFO ebanking - Entered password
+2020-06-22 22:44:14,105 [main] INFO ebanking - clicked on submit button
+2020-06-22 22:44:14,140 [main] INFO ebanking - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.106): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 386550f7c0bb5a4fedeeef1a503f7893
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-22 22:44:14,141 [main] INFO ebanking - Test failed
+2020-06-22 22:45:59,767 [main] INFO ebanking - Entered username
+2020-06-22 22:45:59,882 [main] INFO ebanking - Entered password
+2020-06-22 22:46:01,498 [main] INFO ebanking - clicked on login button
+2020-06-22 22:46:05,405 [main] INFO ebanking - clicked on new customer
+2020-06-22 22:46:08,620 [main] INFO ebanking - Entered customer name
+2020-06-22 22:46:08,704 [main] INFO ebanking - gender selected
+2020-06-22 22:46:09,018 [main] INFO ebanking - Entered DOB
+2020-06-22 22:46:12,169 [main] INFO ebanking - Entered address
+2020-06-22 22:46:12,300 [main] INFO ebanking - Entered City
+2020-06-22 22:46:12,394 [main] INFO ebanking - Entered State
+2020-06-22 22:46:12,529 [main] INFO ebanking - PIN No entered
+2020-06-22 22:46:12,730 [main] INFO ebanking - Entered Phone number
+2020-06-22 22:46:12,984 [main] INFO ebanking - Entered Email Id
+2020-06-22 22:46:13,134 [main] INFO ebanking - Entered password
+2020-06-22 22:46:25,057 [main] INFO ebanking - clicked on submit button
+2020-06-22 22:46:25,164 [main] INFO ebanking - New customer registered successfully
+2020-06-22 22:46:25,235 [main] INFO ebanking - CustomerId:30051
+2020-06-22 22:46:25,235 [main] INFO ebanking - Test Passed
+2020-06-22 22:46:32,649 [main] INFO ebanking - Entered username
+2020-06-22 22:46:32,751 [main] INFO ebanking - Entered password
+2020-06-22 22:46:34,686 [main] INFO ebanking - clicked on login button
+2020-06-22 22:46:41,947 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:00:56,592 [main] INFO ebanking - Entered username
+2020-06-22 23:00:56,683 [main] INFO ebanking - Entered password
+2020-06-22 23:00:58,100 [main] INFO ebanking - clicked on login button
+2020-06-22 23:01:02,489 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:01:05,644 [main] INFO ebanking - Entered customer name
+2020-06-22 23:01:05,766 [main] INFO ebanking - gender selected
+2020-06-22 23:01:06,070 [main] INFO ebanking - Entered DOB
+2020-06-22 23:01:09,263 [main] INFO ebanking - Entered address
+2020-06-22 23:01:09,388 [main] INFO ebanking - Entered City
+2020-06-22 23:01:09,478 [main] INFO ebanking - Entered State
+2020-06-22 23:01:09,567 [main] INFO ebanking - PIN No entered
+2020-06-22 23:01:09,676 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:01:09,831 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:01:09,944 [main] INFO ebanking - Entered password
+2020-06-22 23:01:21,981 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:01:22,096 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:01:22,174 [main] INFO ebanking - CustomerId:36342
+2020-06-22 23:03:14,246 [main] INFO ebanking - Entered username
+2020-06-22 23:03:14,346 [main] INFO ebanking - Entered password
+2020-06-22 23:03:15,392 [main] INFO ebanking - clicked on login button
+2020-06-22 23:03:19,628 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:03:22,784 [main] INFO ebanking - Entered customer name
+2020-06-22 23:03:22,910 [main] INFO ebanking - gender selected
+2020-06-22 23:03:23,086 [main] INFO ebanking - Entered DOB
+2020-06-22 23:03:26,264 [main] INFO ebanking - Entered address
+2020-06-22 23:03:26,414 [main] INFO ebanking - Entered City
+2020-06-22 23:03:26,554 [main] INFO ebanking - Entered State
+2020-06-22 23:03:26,712 [main] INFO ebanking - PIN No entered
+2020-06-22 23:03:26,839 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:03:27,050 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:03:27,177 [main] INFO ebanking - Entered password
+2020-06-22 23:03:39,138 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:03:39,257 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:03:39,300 [main] INFO ebanking - CustomerId:85824
+2020-06-22 23:03:46,836 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:03:46,996 [main] INFO ebanking - Entered customer id
+2020-06-22 23:03:47,071 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:03:50,085 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:03:50,085 [main] INFO ebanking - captured first alert message
+2020-06-22 23:03:50,543 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:03:51,370 [main] INFO ebanking - Test passed
+2020-06-22 23:03:51,370 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:03:51,373 [main] INFO ebanking - Test passed
+2020-06-22 23:04:42,879 [main] INFO ebanking - Entered username
+2020-06-22 23:04:42,972 [main] INFO ebanking - Entered password
+2020-06-22 23:04:44,855 [main] INFO ebanking - clicked on login button
+2020-06-22 23:04:49,162 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:04:52,303 [main] INFO ebanking - Entered customer name
+2020-06-22 23:04:52,381 [main] INFO ebanking - gender selected
+2020-06-22 23:04:52,700 [main] INFO ebanking - Entered DOB
+2020-06-22 23:04:55,849 [main] INFO ebanking - Entered address
+2020-06-22 23:04:55,939 [main] INFO ebanking - Entered City
+2020-06-22 23:04:56,075 [main] INFO ebanking - Entered State
+2020-06-22 23:04:56,210 [main] INFO ebanking - PIN No entered
+2020-06-22 23:04:56,362 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:04:56,547 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:04:56,724 [main] INFO ebanking - Entered password
+2020-06-22 23:05:08,566 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:05:08,620 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:05:08,687 [main] INFO ebanking - CustomerId:57793
+2020-06-22 23:05:15,861 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:05:16,010 [main] INFO ebanking - Entered customer id
+2020-06-22 23:05:16,115 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:05:19,129 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:05:19,129 [main] INFO ebanking - captured first alert message
+2020-06-22 23:05:19,866 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:05:20,797 [main] INFO ebanking - Test passed
+2020-06-22 23:05:20,797 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:05:20,798 [main] INFO ebanking - Test passed
+2020-06-22 23:05:40,562 [main] INFO ebanking - Entered username
+2020-06-22 23:05:40,655 [main] INFO ebanking - Entered password
+2020-06-22 23:05:42,098 [main] INFO ebanking - clicked on login button
+2020-06-22 23:05:46,439 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:05:49,590 [main] INFO ebanking - Entered customer name
+2020-06-22 23:05:49,716 [main] INFO ebanking - gender selected
+2020-06-22 23:05:49,901 [main] INFO ebanking - Entered DOB
+2020-06-22 23:05:53,052 [main] INFO ebanking - Entered address
+2020-06-22 23:05:53,198 [main] INFO ebanking - Entered City
+2020-06-22 23:05:53,289 [main] INFO ebanking - Entered State
+2020-06-22 23:05:53,387 [main] INFO ebanking - PIN No entered
+2020-06-22 23:05:53,559 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:05:53,773 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:05:53,896 [main] INFO ebanking - Entered password
+2020-06-22 23:06:05,452 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:06:05,919 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:06:05,989 [main] INFO ebanking - CustomerId:97661
+2020-06-22 23:06:13,208 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:06:13,369 [main] INFO ebanking - Entered customer id
+2020-06-22 23:06:13,480 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:06:16,491 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:06:16,491 [main] INFO ebanking - captured first alert message
+2020-06-22 23:06:16,946 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:06:17,677 [main] INFO ebanking - Test passed
+2020-06-22 23:06:17,677 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:06:17,680 [main] INFO ebanking - Test passed
+2020-06-22 23:07:33,437 [main] INFO ebanking - Entered username
+2020-06-22 23:07:33,535 [main] INFO ebanking - Entered password
+2020-06-22 23:07:34,863 [main] INFO ebanking - clicked on login button
+2020-06-22 23:07:39,972 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:07:43,218 [main] INFO ebanking - Entered customer name
+2020-06-22 23:07:43,394 [main] INFO ebanking - gender selected
+2020-06-22 23:07:43,535 [main] INFO ebanking - Entered DOB
+2020-06-22 23:07:46,704 [main] INFO ebanking - Entered address
+2020-06-22 23:07:46,822 [main] INFO ebanking - Entered City
+2020-06-22 23:07:46,906 [main] INFO ebanking - Entered State
+2020-06-22 23:07:46,993 [main] INFO ebanking - PIN No entered
+2020-06-22 23:07:47,103 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:07:47,266 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:07:47,393 [main] INFO ebanking - Entered password
+2020-06-22 23:07:59,416 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:07:59,504 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:07:59,545 [main] INFO ebanking - CustomerId:94995
+2020-06-22 23:08:06,851 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:08:07,035 [main] INFO ebanking - Entered customer id
+2020-06-22 23:08:07,198 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:08:10,214 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:08:10,214 [main] INFO ebanking - captured first alert message
+2020-06-22 23:08:10,716 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:08:11,592 [main] INFO ebanking - Test passed
+2020-06-22 23:08:11,592 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:08:11,594 [main] INFO ebanking - Test passed
+2020-06-22 23:12:09,609 [main] INFO ebanking - Entered username
+2020-06-22 23:12:09,700 [main] INFO ebanking - Entered password
+2020-06-22 23:12:11,573 [main] INFO ebanking - clicked on login button
+2020-06-22 23:12:15,706 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:12:18,896 [main] INFO ebanking - Entered customer name
+2020-06-22 23:12:19,110 [main] INFO ebanking - gender selected
+2020-06-22 23:12:19,424 [main] INFO ebanking - Entered DOB
+2020-06-22 23:12:22,577 [main] INFO ebanking - Entered address
+2020-06-22 23:12:22,706 [main] INFO ebanking - Entered City
+2020-06-22 23:12:22,885 [main] INFO ebanking - Entered State
+2020-06-22 23:12:23,008 [main] INFO ebanking - PIN No entered
+2020-06-22 23:12:23,148 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:12:23,271 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:12:23,364 [main] INFO ebanking - Entered password
+2020-06-22 23:12:35,480 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:12:35,599 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:12:35,658 [main] INFO ebanking - CustomerId:26842
+2020-06-22 23:12:42,856 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:12:43,008 [main] INFO ebanking - Entered customer id
+2020-06-22 23:12:43,102 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:12:46,113 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:12:46,117 [main] INFO ebanking - captured first alert message
+2020-06-22 23:12:46,528 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:12:47,306 [main] INFO ebanking - Test passed
+2020-06-22 23:12:47,308 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:12:47,308 [main] INFO ebanking - Test passed
+2020-06-22 23:13:39,166 [main] INFO ebanking - Entered username
+2020-06-22 23:13:39,266 [main] INFO ebanking - Entered password
+2020-06-22 23:13:40,580 [main] INFO ebanking - clicked on login button
+2020-06-22 23:13:46,458 [main] INFO ebanking - clicked on new customer
+2020-06-22 23:13:49,561 [main] INFO ebanking - Entered customer name
+2020-06-22 23:13:49,644 [main] INFO ebanking - gender selected
+2020-06-22 23:13:50,122 [main] INFO ebanking - Entered DOB
+2020-06-22 23:13:53,271 [main] INFO ebanking - Entered address
+2020-06-22 23:13:53,379 [main] INFO ebanking - Entered City
+2020-06-22 23:13:53,486 [main] INFO ebanking - Entered State
+2020-06-22 23:13:53,601 [main] INFO ebanking - PIN No entered
+2020-06-22 23:13:53,770 [main] INFO ebanking - Entered Phone number
+2020-06-22 23:13:53,929 [main] INFO ebanking - Entered Email Id
+2020-06-22 23:13:54,055 [main] INFO ebanking - Entered password
+2020-06-22 23:14:06,179 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:14:06,237 [main] INFO ebanking - New customer registered successfully
+2020-06-22 23:14:06,297 [main] INFO ebanking - CustomerId:96368
+2020-06-22 23:14:13,793 [main] INFO ebanking - clicked on delete customer
+2020-06-22 23:14:13,922 [main] INFO ebanking - Entered customer id
+2020-06-22 23:14:14,027 [main] INFO ebanking - clicked on submit button
+2020-06-22 23:14:17,043 [main] INFO ebanking - Do you really want to delete this Customer?
+2020-06-22 23:14:17,043 [main] INFO ebanking - captured first alert message
+2020-06-22 23:14:17,496 [main] INFO ebanking - Customer deleted Successfully
+2020-06-22 23:14:18,168 [main] INFO ebanking - Test passed
+2020-06-22 23:14:18,170 [main] INFO ebanking - customer deleted successfully
+2020-06-22 23:14:18,170 [main] INFO ebanking - Test passed

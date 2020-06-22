@@ -6,11 +6,14 @@
   	<listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
   <test name="chrome Test">
+  
   	<parameter name="browser" value="chrome"/>
+  	
+  	
     <classes>
-      <class name="com.inetbanking.testCases.TC_LoginTest_001"/>
-      <class name="com.inetbanking.testCases.TC_NewCustomer_003"/>
-      <!-- <class name="com.inetbanking.testCases.TC_DeleteCustomer_005"/> -->
+      <!-- <class name="com.inetbanking.testCases.TC_LoginTest_001"/> -->
+      <!-- <class name="com.inetbanking.testCases.TC_NewCustomer_003"/> -->
+      <class name="com.inetbanking.testCases.TC_DeleteCustomer_005"/>
     </classes>
   </test>
   
