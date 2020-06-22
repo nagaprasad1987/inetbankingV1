@@ -11,8 +11,10 @@
   	
   	
     <classes>
-      <!-- <class name="com.inetbanking.testCases.TC_LoginTest_001"/> -->
-      <!-- <class name="com.inetbanking.testCases.TC_NewCustomer_003"/> -->
+      <class name="com.inetbanking.testCases.TC_LoginTest_001"/>
+      <class name="com.inetbanking.testCases.TC_LoginDDT_002"/>
+      <class name="com.inetbanking.testCases.TC_NewCustomer_003"/>
+      <class name="com.inetbanking.testCases.TC_EditCustomer_004"/>
       <class name="com.inetbanking.testCases.TC_DeleteCustomer_005"/>
     </classes>
   </test>
