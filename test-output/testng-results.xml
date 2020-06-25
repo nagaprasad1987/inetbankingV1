@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="inetbanking" duration-ms="46598" started-at="2020-06-22T17:43:32Z" finished-at="2020-06-22T17:44:19Z">
+  <suite name="inetbanking" duration-ms="55846" started-at="2020-06-25T03:41:55Z" finished-at="2020-06-25T03:42:51Z">
     <groups>
     </groups>
-    <test name="chrome Test" duration-ms="46598" started-at="2020-06-22T17:43:32Z" finished-at="2020-06-22T17:44:19Z">
-      <class name="com.inetbanking.testCases.TC_DeleteCustomer_005">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer_005@55a561cf]" name="setUp" is-config="true" duration-ms="6321" started-at="2020-06-22T17:43:32Z" finished-at="2020-06-22T17:43:39Z">
+    <test name="chrome Test" duration-ms="55846" started-at="2020-06-25T03:41:55Z" finished-at="2020-06-25T03:42:51Z">
+      <class name="com.inetbanking.testCases.TC_EditAccount_007">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_EditAccount_007@3d299e3]" name="setUp" is-config="true" duration-ms="5994" started-at="2020-06-25T03:41:55Z" finished-at="2020-06-25T03:42:01Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="deleteCustomer()[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer_005@55a561cf]" name="deleteCustomer" duration-ms="39134" started-at="2020-06-22T17:43:39Z" finished-at="2020-06-22T17:44:18Z">
+        <test-method status="PASS" signature="editAccount()[pri:0, instance:com.inetbanking.testCases.TC_EditAccount_007@3d299e3]" name="editAccount" duration-ms="49737" started-at="2020-06-25T03:42:01Z" finished-at="2020-06-25T03:42:51Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- deleteCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_DeleteCustomer_005@55a561cf]" name="tearDown" is-config="true" duration-ms="1002" started-at="2020-06-22T17:44:18Z" finished-at="2020-06-22T17:44:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.inetbanking.testCases.TC_DeleteCustomer_005 -->
+        </test-method> <!-- editAccount -->
+      </class> <!-- com.inetbanking.testCases.TC_EditAccount_007 -->
     </test> <!-- chrome Test -->
   </suite> <!-- inetbanking -->
 </testng-results>

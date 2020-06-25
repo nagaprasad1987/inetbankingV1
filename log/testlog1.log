@@ -1232,3 +1232,436 @@ Session ID: 386550f7c0bb5a4fedeeef1a503f7893
 2020-06-22 23:14:18,168 [main] INFO ebanking - Test passed
 2020-06-22 23:14:18,170 [main] INFO ebanking - customer deleted successfully
 2020-06-22 23:14:18,170 [main] INFO ebanking - Test passed
+2020-06-23 22:25:08,003 [main] INFO ebanking - Entered username
+2020-06-23 22:25:08,095 [main] INFO ebanking - Entered password
+2020-06-23 22:25:08,232 [main] INFO ebanking - clicked on login button
+2020-06-23 22:25:12,711 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:25:15,898 [main] INFO ebanking - Entered customer name
+2020-06-23 22:25:16,023 [main] INFO ebanking - gender selected
+2020-06-23 22:25:16,216 [main] INFO ebanking - Entered DOB
+2020-06-23 22:25:19,400 [main] INFO ebanking - Entered address
+2020-06-23 22:25:19,507 [main] INFO ebanking - Entered City
+2020-06-23 22:25:19,650 [main] INFO ebanking - Entered State
+2020-06-23 22:25:19,794 [main] INFO ebanking - PIN No entered
+2020-06-23 22:25:19,931 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:25:20,139 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:25:20,264 [main] INFO ebanking - Entered password
+2020-06-23 22:25:32,104 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:25:32,227 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:25:32,282 [main] INFO ebanking - CustomerId:1177
+2020-06-23 22:25:36,158 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:25:36,205 [main] INFO ebanking - invalid selector: Unable to locate an element with the xpath expression //p[text(),'Add new account form'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//p[text(),'Add new account form']' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '10.248.0.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58119}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 706223113acf7efc03a6cbc7a7d6f0fb
+*** Element info: {Using=xpath, value=//p[text(),'Add new account form']}
+2020-06-23 22:25:36,205 [main] INFO ebanking - Test failed
+2020-06-23 22:32:01,865 [main] INFO ebanking - Entered username
+2020-06-23 22:32:01,955 [main] INFO ebanking - Entered password
+2020-06-23 22:32:02,081 [main] INFO ebanking - clicked on login button
+2020-06-23 22:32:06,128 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:32:09,295 [main] INFO ebanking - Entered customer name
+2020-06-23 22:32:09,421 [main] INFO ebanking - gender selected
+2020-06-23 22:32:09,646 [main] INFO ebanking - Entered DOB
+2020-06-23 22:32:12,810 [main] INFO ebanking - Entered address
+2020-06-23 22:32:12,963 [main] INFO ebanking - Entered City
+2020-06-23 22:32:13,100 [main] INFO ebanking - Entered State
+2020-06-23 22:32:13,248 [main] INFO ebanking - PIN No entered
+2020-06-23 22:32:13,386 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:32:13,580 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:32:13,713 [main] INFO ebanking - Entered password
+2020-06-23 22:32:24,542 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:32:24,561 [main] INFO ebanking - unexpected alert open: {Alert text : Customer could not be added !!}
+  (Session info: chrome=83.0.4103.106): Customer could not be added !!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '10.248.0.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58636}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 1d5c584d787951788533244c87ac5f1b
+*** Element info: {Using=xpath, value=//p[contains(text(),'Customer Registered Successfully!!!')]}
+2020-06-23 22:32:24,563 [main] INFO ebanking - Test failed
+2020-06-23 22:33:17,985 [main] INFO ebanking - Entered username
+2020-06-23 22:33:18,077 [main] INFO ebanking - Entered password
+2020-06-23 22:33:18,145 [main] INFO ebanking - clicked on login button
+2020-06-23 22:33:22,332 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:33:25,509 [main] INFO ebanking - Entered customer name
+2020-06-23 22:33:25,644 [main] INFO ebanking - gender selected
+2020-06-23 22:33:25,858 [main] INFO ebanking - Entered DOB
+2020-06-23 22:33:28,994 [main] INFO ebanking - Entered address
+2020-06-23 22:33:29,114 [main] INFO ebanking - Entered City
+2020-06-23 22:33:29,260 [main] INFO ebanking - Entered State
+2020-06-23 22:33:29,435 [main] INFO ebanking - PIN No entered
+2020-06-23 22:33:29,612 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:33:29,797 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:33:29,918 [main] INFO ebanking - Entered password
+2020-06-23 22:33:41,922 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:33:42,032 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:33:42,079 [main] INFO ebanking - CustomerId:18865
+2020-06-23 22:33:45,972 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:33:49,025 [main] INFO ebanking - invalid selector: Unable to locate an element with the xpath expression //p(contains(text(),'Add new account form') because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//p(contains(text(),'Add new account form')' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '10.248.0.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60821}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 16f435721e4d0220d8b18544d4df55fb
+*** Element info: {Using=xpath, value=//p(contains(text(),'Add new account form')}
+2020-06-23 22:33:49,027 [main] INFO ebanking - Test failed
+2020-06-23 22:36:18,949 [main] INFO ebanking - Entered username
+2020-06-23 22:36:19,036 [main] INFO ebanking - Entered password
+2020-06-23 22:36:19,124 [main] INFO ebanking - clicked on login button
+2020-06-23 22:36:23,453 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:36:26,624 [main] INFO ebanking - Entered customer name
+2020-06-23 22:36:26,751 [main] INFO ebanking - gender selected
+2020-06-23 22:36:27,004 [main] INFO ebanking - Entered DOB
+2020-06-23 22:36:30,173 [main] INFO ebanking - Entered address
+2020-06-23 22:36:30,313 [main] INFO ebanking - Entered City
+2020-06-23 22:36:30,441 [main] INFO ebanking - Entered State
+2020-06-23 22:36:30,592 [main] INFO ebanking - PIN No entered
+2020-06-23 22:36:30,683 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:36:30,870 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:36:31,001 [main] INFO ebanking - Entered password
+2020-06-23 22:36:42,964 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:36:43,075 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:36:43,141 [main] INFO ebanking - CustomerId:92351
+2020-06-23 22:36:47,048 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:36:50,116 [main] INFO ebanking - invalid selector: Unable to locate an element with the xpath expression //p[contains(text(),'Add new account form'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//p[contains(text(),'Add new account form']' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '10.248.0.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51521}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: cab105bfe4ebdeb619a8590cc78dea32
+*** Element info: {Using=xpath, value=//p[contains(text(),'Add new account form']}
+2020-06-23 22:36:50,117 [main] INFO ebanking - Test failed
+2020-06-23 22:43:28,396 [main] INFO ebanking - Entered username
+2020-06-23 22:43:28,487 [main] INFO ebanking - Entered password
+2020-06-23 22:43:28,633 [main] INFO ebanking - clicked on login button
+2020-06-23 22:43:32,490 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:43:35,657 [main] INFO ebanking - Entered customer name
+2020-06-23 22:43:35,786 [main] INFO ebanking - gender selected
+2020-06-23 22:43:35,985 [main] INFO ebanking - Entered DOB
+2020-06-23 22:43:39,112 [main] INFO ebanking - Entered address
+2020-06-23 22:43:39,245 [main] INFO ebanking - Entered City
+2020-06-23 22:43:39,368 [main] INFO ebanking - Entered State
+2020-06-23 22:43:39,491 [main] INFO ebanking - PIN No entered
+2020-06-23 22:43:39,611 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:43:39,767 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:43:39,897 [main] INFO ebanking - Entered password
+2020-06-23 22:43:51,461 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:43:51,573 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:43:51,635 [main] INFO ebanking - CustomerId:47913
+2020-06-23 22:43:55,817 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:43:58,884 [main] INFO ebanking - Add new account form opened
+2020-06-23 22:43:59,035 [main] INFO ebanking - Entered customer id
+2020-06-23 22:43:59,132 [main] INFO ebanking - Entered account type
+2020-06-23 22:43:59,237 [main] INFO ebanking - Entered initial deposit amount
+2020-06-23 22:44:00,771 [main] INFO ebanking - Clicked on submit button
+2020-06-23 22:44:03,835 [main] INFO ebanking - invalid selector: Unable to locate an element with the xpath expression //p[contains(text(),'Account Generated Successfully!!!'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//p[contains(text(),'Account Generated Successfully!!!']' is not a valid XPath expression.
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '10.248.0.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52080}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b14ee8a5a40dce6fec8d8e0473fca898
+*** Element info: {Using=xpath, value=//p[contains(text(),'Account Generated Successfully!!!']}
+2020-06-23 22:44:03,839 [main] INFO ebanking - Test failed
+2020-06-23 22:46:30,512 [main] INFO ebanking - Entered username
+2020-06-23 22:46:30,606 [main] INFO ebanking - Entered password
+2020-06-23 22:46:30,749 [main] INFO ebanking - clicked on login button
+2020-06-23 22:46:35,415 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:46:38,588 [main] INFO ebanking - Entered customer name
+2020-06-23 22:46:38,723 [main] INFO ebanking - gender selected
+2020-06-23 22:46:38,944 [main] INFO ebanking - Entered DOB
+2020-06-23 22:46:42,128 [main] INFO ebanking - Entered address
+2020-06-23 22:46:42,275 [main] INFO ebanking - Entered City
+2020-06-23 22:46:42,429 [main] INFO ebanking - Entered State
+2020-06-23 22:46:42,576 [main] INFO ebanking - PIN No entered
+2020-06-23 22:46:42,736 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:46:42,938 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:46:43,060 [main] INFO ebanking - Entered password
+2020-06-23 22:46:54,613 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:46:54,741 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:46:54,799 [main] INFO ebanking - CustomerId:964
+2020-06-23 22:46:58,985 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:47:02,055 [main] INFO ebanking - Add new account form opened
+2020-06-23 22:47:02,193 [main] INFO ebanking - Entered customer id
+2020-06-23 22:47:02,294 [main] INFO ebanking - Entered account type
+2020-06-23 22:47:02,391 [main] INFO ebanking - Entered initial deposit amount
+2020-06-23 22:47:03,880 [main] INFO ebanking - Clicked on submit button
+2020-06-23 22:47:06,948 [main] INFO ebanking - New Acccount created successfully
+2020-06-23 22:47:06,948 [main] INFO ebanking - Test Passed....
+2020-06-23 22:47:51,518 [main] INFO ebanking - Entered username
+2020-06-23 22:47:51,608 [main] INFO ebanking - Entered password
+2020-06-23 22:47:51,688 [main] INFO ebanking - clicked on login button
+2020-06-23 22:47:55,471 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:47:58,647 [main] INFO ebanking - Entered customer name
+2020-06-23 22:47:58,760 [main] INFO ebanking - gender selected
+2020-06-23 22:47:58,988 [main] INFO ebanking - Entered DOB
+2020-06-23 22:48:02,149 [main] INFO ebanking - Entered address
+2020-06-23 22:48:02,300 [main] INFO ebanking - Entered City
+2020-06-23 22:48:02,403 [main] INFO ebanking - Entered State
+2020-06-23 22:48:02,540 [main] INFO ebanking - PIN No entered
+2020-06-23 22:48:02,702 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:48:02,940 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:48:03,062 [main] INFO ebanking - Entered password
+2020-06-23 22:48:14,992 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:48:15,047 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:48:15,109 [main] INFO ebanking - CustomerId:16762
+2020-06-23 22:48:19,311 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:48:22,379 [main] INFO ebanking - Add new account form opened
+2020-06-23 22:48:22,538 [main] INFO ebanking - Entered customer id
+2020-06-23 22:48:22,633 [main] INFO ebanking - Entered account type
+2020-06-23 22:48:22,729 [main] INFO ebanking - Entered initial deposit amount
+2020-06-23 22:48:24,232 [main] INFO ebanking - Clicked on submit button
+2020-06-23 22:48:27,294 [main] INFO ebanking - New Acccount created successfully
+2020-06-23 22:48:27,294 [main] INFO ebanking - Test Passed....
+2020-06-23 22:49:27,864 [main] INFO ebanking - Entered username
+2020-06-23 22:49:27,954 [main] INFO ebanking - Entered password
+2020-06-23 22:49:28,021 [main] INFO ebanking - clicked on login button
+2020-06-23 22:49:32,671 [main] INFO ebanking - clicked on new customer
+2020-06-23 22:49:35,835 [main] INFO ebanking - Entered customer name
+2020-06-23 22:49:35,946 [main] INFO ebanking - gender selected
+2020-06-23 22:49:36,136 [main] INFO ebanking - Entered DOB
+2020-06-23 22:49:39,283 [main] INFO ebanking - Entered address
+2020-06-23 22:49:39,426 [main] INFO ebanking - Entered City
+2020-06-23 22:49:39,572 [main] INFO ebanking - Entered State
+2020-06-23 22:49:39,688 [main] INFO ebanking - PIN No entered
+2020-06-23 22:49:39,858 [main] INFO ebanking - Entered Phone number
+2020-06-23 22:49:40,040 [main] INFO ebanking - Entered Email Id
+2020-06-23 22:49:40,147 [main] INFO ebanking - Entered password
+2020-06-23 22:49:52,493 [main] INFO ebanking - clicked on submit button
+2020-06-23 22:49:52,541 [main] INFO ebanking - New customer registered successfully
+2020-06-23 22:49:52,604 [main] INFO ebanking - CustomerId:89620
+2020-06-23 22:49:56,772 [main] INFO ebanking - Clicked on New Account link
+2020-06-23 22:49:59,825 [main] INFO ebanking - Add new account form opened
+2020-06-23 22:49:59,963 [main] INFO ebanking - Entered customer id
+2020-06-23 22:50:00,045 [main] INFO ebanking - Entered account type
+2020-06-23 22:50:00,132 [main] INFO ebanking - Entered initial deposit amount
+2020-06-23 22:50:01,606 [main] INFO ebanking - Clicked on submit button
+2020-06-23 22:50:04,668 [main] INFO ebanking - New Acccount created successfully
+2020-06-23 22:50:04,668 [main] INFO ebanking - Test Passed....
+2020-06-25 07:35:57,649 [main] INFO ebanking - Entered username
+2020-06-25 07:35:57,736 [main] INFO ebanking - Entered password
+2020-06-25 07:35:58,801 [main] INFO ebanking - clicked on login button
+2020-06-25 07:36:03,035 [main] INFO ebanking - clicked on new customer
+2020-06-25 07:36:06,131 [main] INFO ebanking - Entered customer name
+2020-06-25 07:36:06,400 [main] INFO ebanking - gender selected
+2020-06-25 07:36:06,671 [main] INFO ebanking - Entered DOB
+2020-06-25 07:36:09,775 [main] INFO ebanking - Entered address
+2020-06-25 07:36:09,863 [main] INFO ebanking - Entered City
+2020-06-25 07:36:09,945 [main] INFO ebanking - Entered State
+2020-06-25 07:36:10,025 [main] INFO ebanking - PIN No entered
+2020-06-25 07:36:10,124 [main] INFO ebanking - Entered Phone number
+2020-06-25 07:36:10,237 [main] INFO ebanking - Entered Email Id
+2020-06-25 07:36:10,302 [main] INFO ebanking - Entered password
+2020-06-25 07:36:22,068 [main] INFO ebanking - clicked on submit button
+2020-06-25 07:36:22,134 [main] INFO ebanking - New customer registered successfully
+2020-06-25 07:36:22,165 [main] INFO ebanking - CustomerId:12323
+2020-06-25 07:36:25,937 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 07:36:28,972 [main] INFO ebanking - Add new account form opened
+2020-06-25 07:36:29,064 [main] INFO ebanking - Entered customer id
+2020-06-25 07:36:29,129 [main] INFO ebanking - Entered account type
+2020-06-25 07:36:29,203 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 07:36:30,005 [main] INFO ebanking - Clicked on submit button
+2020-06-25 07:36:33,032 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 07:36:33,032 [main] INFO ebanking - Test Passed....
+2020-06-25 08:58:17,177 [main] INFO ebanking - Entered username
+2020-06-25 08:58:17,264 [main] INFO ebanking - Entered password
+2020-06-25 08:58:18,428 [main] INFO ebanking - clicked on login button
+2020-06-25 08:58:22,470 [main] INFO ebanking - clicked on new customer
+2020-06-25 08:58:25,698 [main] INFO ebanking - Entered customer name
+2020-06-25 08:58:25,764 [main] INFO ebanking - gender selected
+2020-06-25 08:58:26,476 [main] INFO ebanking - Entered DOB
+2020-06-25 08:58:29,577 [main] INFO ebanking - Entered address
+2020-06-25 08:58:29,665 [main] INFO ebanking - Entered City
+2020-06-25 08:58:29,745 [main] INFO ebanking - Entered State
+2020-06-25 08:58:29,824 [main] INFO ebanking - PIN No entered
+2020-06-25 08:58:29,942 [main] INFO ebanking - Entered Phone number
+2020-06-25 08:58:30,079 [main] INFO ebanking - Entered Email Id
+2020-06-25 08:58:30,169 [main] INFO ebanking - Entered password
+2020-06-25 08:58:41,687 [main] INFO ebanking - clicked on submit button
+2020-06-25 08:58:41,716 [main] INFO ebanking - New customer registered successfully
+2020-06-25 08:58:41,749 [main] INFO ebanking - CustomerId:82574
+2020-06-25 08:58:45,719 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 08:58:48,752 [main] INFO ebanking - Add new account form opened
+2020-06-25 08:58:49,137 [main] INFO ebanking - Entered customer id
+2020-06-25 08:58:49,198 [main] INFO ebanking - Entered account type
+2020-06-25 08:58:49,307 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 08:58:50,097 [main] INFO ebanking - Clicked on submit button
+2020-06-25 08:58:53,174 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 08:58:53,209 [main] INFO ebanking - New Account Number:80702
+2020-06-25 08:58:57,598 [main] INFO ebanking - Clicked on Edit Account
+2020-06-25 08:59:07,632 [main] INFO ebanking - no such element: Unable to locate element: {"method":"xpath","selector":"//p[text() = 'Edit Account Entry Form']"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 51da9fc2e68b6909c1136563a0d98550
+*** Element info: {Using=xpath, value=//p[text() = 'Edit Account Entry Form']}
+2020-06-25 08:59:07,633 [main] INFO ebanking - Test failed
+2020-06-25 09:04:26,879 [main] INFO ebanking - Entered username
+2020-06-25 09:04:26,968 [main] INFO ebanking - Entered password
+2020-06-25 09:04:27,994 [main] INFO ebanking - clicked on login button
+2020-06-25 09:04:31,998 [main] INFO ebanking - clicked on new customer
+2020-06-25 09:04:35,116 [main] INFO ebanking - Entered customer name
+2020-06-25 09:04:35,168 [main] INFO ebanking - gender selected
+2020-06-25 09:04:35,351 [main] INFO ebanking - Entered DOB
+2020-06-25 09:04:38,451 [main] INFO ebanking - Entered address
+2020-06-25 09:04:38,537 [main] INFO ebanking - Entered City
+2020-06-25 09:04:38,622 [main] INFO ebanking - Entered State
+2020-06-25 09:04:38,716 [main] INFO ebanking - PIN No entered
+2020-06-25 09:04:38,814 [main] INFO ebanking - Entered Phone number
+2020-06-25 09:04:38,924 [main] INFO ebanking - Entered Email Id
+2020-06-25 09:04:38,996 [main] INFO ebanking - Entered password
+2020-06-25 09:04:50,776 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:04:50,805 [main] INFO ebanking - New customer registered successfully
+2020-06-25 09:04:50,836 [main] INFO ebanking - CustomerId:87965
+2020-06-25 09:04:54,600 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 09:04:57,640 [main] INFO ebanking - Add new account form opened
+2020-06-25 09:04:57,728 [main] INFO ebanking - Entered customer id
+2020-06-25 09:04:57,790 [main] INFO ebanking - Entered account type
+2020-06-25 09:04:57,860 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 09:04:59,250 [main] INFO ebanking - Clicked on submit button
+2020-06-25 09:05:02,285 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 09:05:02,310 [main] INFO ebanking - New Account Number:80703
+2020-06-25 09:05:06,399 [main] INFO ebanking - Clicked on Edit Account
+2020-06-25 09:05:18,439 [main] INFO ebanking - no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Edit Account Entry Form']"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: edde89606e096c34b6442d8279a714f3
+*** Element info: {Using=xpath, value=//p[text()='Edit Account Entry Form']}
+2020-06-25 09:05:18,440 [main] INFO ebanking - Test failed
+2020-06-25 09:07:17,951 [main] INFO ebanking - Entered username
+2020-06-25 09:07:18,046 [main] INFO ebanking - Entered password
+2020-06-25 09:07:19,138 [main] INFO ebanking - clicked on login button
+2020-06-25 09:07:27,617 [main] INFO ebanking - clicked on new customer
+2020-06-25 09:07:30,879 [main] INFO ebanking - Entered customer name
+2020-06-25 09:07:30,959 [main] INFO ebanking - gender selected
+2020-06-25 09:07:31,186 [main] INFO ebanking - Entered DOB
+2020-06-25 09:07:34,317 [main] INFO ebanking - Entered address
+2020-06-25 09:07:34,400 [main] INFO ebanking - Entered City
+2020-06-25 09:07:34,477 [main] INFO ebanking - Entered State
+2020-06-25 09:07:34,556 [main] INFO ebanking - PIN No entered
+2020-06-25 09:07:34,646 [main] INFO ebanking - Entered Phone number
+2020-06-25 09:07:34,772 [main] INFO ebanking - Entered Email Id
+2020-06-25 09:07:34,836 [main] INFO ebanking - Entered password
+2020-06-25 09:07:46,707 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:07:46,770 [main] INFO ebanking - New customer registered successfully
+2020-06-25 09:07:46,803 [main] INFO ebanking - CustomerId:64505
+2020-06-25 09:07:50,767 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 09:07:53,806 [main] INFO ebanking - Add new account form opened
+2020-06-25 09:07:53,890 [main] INFO ebanking - Entered customer id
+2020-06-25 09:07:53,966 [main] INFO ebanking - Entered account type
+2020-06-25 09:07:54,034 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 09:07:56,167 [main] INFO ebanking - Clicked on submit button
+2020-06-25 09:07:59,221 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 09:07:59,245 [main] INFO ebanking - New Account Number:80704
+2020-06-25 09:08:03,644 [main] INFO ebanking - Clicked on Edit Account
+2020-06-25 09:08:05,679 [main] INFO ebanking - Edit Account Form opened
+2020-06-25 09:08:05,756 [main] INFO ebanking - Entered Account number
+2020-06-25 09:08:07,058 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:08:09,109 [main] INFO ebanking - Account Edit Entry Form opened
+2020-06-25 09:08:09,128 [main] INFO ebanking - Customer Id is not editable. Expected
+2020-06-25 09:08:09,449 [main] INFO ebanking - Entered Account type
+2020-06-25 09:08:09,467 [main] INFO ebanking - Balance is not editable. Expected
+2020-06-25 09:08:10,835 [main] INFO ebanking - Clicked on Submit button
+2020-06-25 09:08:22,894 [main] INFO ebanking - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='Account details updated Successfully!!!']"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NBHYDNKASINAP10', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\nkasinap\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51946}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 447a36556d5928693e720eff3a9438a9
+*** Element info: {Using=name, value=Account details updated Successfully!!!}
+2020-06-25 09:08:22,895 [main] INFO ebanking - Test failed
+2020-06-25 09:10:35,785 [main] INFO ebanking - Entered username
+2020-06-25 09:10:35,879 [main] INFO ebanking - Entered password
+2020-06-25 09:10:36,988 [main] INFO ebanking - clicked on login button
+2020-06-25 09:10:41,134 [main] INFO ebanking - clicked on new customer
+2020-06-25 09:10:44,368 [main] INFO ebanking - Entered customer name
+2020-06-25 09:10:44,448 [main] INFO ebanking - gender selected
+2020-06-25 09:10:44,598 [main] INFO ebanking - Entered DOB
+2020-06-25 09:10:47,712 [main] INFO ebanking - Entered address
+2020-06-25 09:10:47,792 [main] INFO ebanking - Entered City
+2020-06-25 09:10:47,864 [main] INFO ebanking - Entered State
+2020-06-25 09:10:47,945 [main] INFO ebanking - PIN No entered
+2020-06-25 09:10:48,033 [main] INFO ebanking - Entered Phone number
+2020-06-25 09:10:48,143 [main] INFO ebanking - Entered Email Id
+2020-06-25 09:10:48,208 [main] INFO ebanking - Entered password
+2020-06-25 09:10:59,931 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:10:59,992 [main] INFO ebanking - New customer registered successfully
+2020-06-25 09:11:00,027 [main] INFO ebanking - CustomerId:67753
+2020-06-25 09:11:03,771 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 09:11:06,905 [main] INFO ebanking - Add new account form opened
+2020-06-25 09:11:06,972 [main] INFO ebanking - Entered customer id
+2020-06-25 09:11:07,029 [main] INFO ebanking - Entered account type
+2020-06-25 09:11:07,087 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 09:11:08,617 [main] INFO ebanking - Clicked on submit button
+2020-06-25 09:11:11,649 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 09:11:11,673 [main] INFO ebanking - New Account Number:80705
+2020-06-25 09:11:15,711 [main] INFO ebanking - Clicked on Edit Account
+2020-06-25 09:11:17,736 [main] INFO ebanking - Edit Account Form opened
+2020-06-25 09:11:17,810 [main] INFO ebanking - Entered Account number
+2020-06-25 09:11:19,105 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:11:21,130 [main] INFO ebanking - Account Edit Entry Form opened
+2020-06-25 09:11:21,149 [main] INFO ebanking - Customer Id is not editable. Expected
+2020-06-25 09:11:21,216 [main] INFO ebanking - Entered Account type
+2020-06-25 09:11:21,236 [main] INFO ebanking - Balance is not editable. Expected
+2020-06-25 09:11:22,003 [main] INFO ebanking - Clicked on Submit button
+2020-06-25 09:11:24,036 [main] INFO ebanking - Account deatils updated.
+2020-06-25 09:11:24,036 [main] INFO ebanking - Test Passed...
+2020-06-25 09:12:01,659 [main] INFO ebanking - Entered username
+2020-06-25 09:12:01,768 [main] INFO ebanking - Entered password
+2020-06-25 09:12:03,081 [main] INFO ebanking - clicked on login button
+2020-06-25 09:12:07,112 [main] INFO ebanking - clicked on new customer
+2020-06-25 09:12:10,214 [main] INFO ebanking - Entered customer name
+2020-06-25 09:12:10,389 [main] INFO ebanking - gender selected
+2020-06-25 09:12:10,720 [main] INFO ebanking - Entered DOB
+2020-06-25 09:12:13,826 [main] INFO ebanking - Entered address
+2020-06-25 09:12:13,913 [main] INFO ebanking - Entered City
+2020-06-25 09:12:13,994 [main] INFO ebanking - Entered State
+2020-06-25 09:12:14,078 [main] INFO ebanking - PIN No entered
+2020-06-25 09:12:14,168 [main] INFO ebanking - Entered Phone number
+2020-06-25 09:12:14,278 [main] INFO ebanking - Entered Email Id
+2020-06-25 09:12:14,345 [main] INFO ebanking - Entered password
+2020-06-25 09:12:26,084 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:12:26,149 [main] INFO ebanking - New customer registered successfully
+2020-06-25 09:12:26,180 [main] INFO ebanking - CustomerId:32919
+2020-06-25 09:12:30,083 [main] INFO ebanking - Clicked on New Account link
+2020-06-25 09:12:33,123 [main] INFO ebanking - Add new account form opened
+2020-06-25 09:12:33,213 [main] INFO ebanking - Entered customer id
+2020-06-25 09:12:33,279 [main] INFO ebanking - Entered account type
+2020-06-25 09:12:33,336 [main] INFO ebanking - Entered initial deposit amount
+2020-06-25 09:12:34,189 [main] INFO ebanking - Clicked on submit button
+2020-06-25 09:12:37,252 [main] INFO ebanking - New Acccount created successfully
+2020-06-25 09:12:37,277 [main] INFO ebanking - New Account Number:80706
+2020-06-25 09:12:41,359 [main] INFO ebanking - Clicked on Edit Account
+2020-06-25 09:12:43,399 [main] INFO ebanking - Edit Account Form opened
+2020-06-25 09:12:43,472 [main] INFO ebanking - Entered Account number
+2020-06-25 09:12:45,127 [main] INFO ebanking - clicked on submit button
+2020-06-25 09:12:47,151 [main] INFO ebanking - Account Edit Entry Form opened
+2020-06-25 09:12:47,174 [main] INFO ebanking - Customer Id is not editable. Expected
+2020-06-25 09:12:47,501 [main] INFO ebanking - Entered Account type
+2020-06-25 09:12:47,520 [main] INFO ebanking - Balance is not editable. Expected
+2020-06-25 09:12:49,224 [main] INFO ebanking - Clicked on Submit button
+2020-06-25 09:12:51,269 [main] INFO ebanking - Account deatils updated.
+2020-06-25 09:12:51,269 [main] INFO ebanking - Test Passed...
